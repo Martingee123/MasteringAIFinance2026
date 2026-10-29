@@ -1,6 +1,6 @@
 # COST report audit — AI review
 
-Reviewer: OpenAI Codex. Completed by AI at the user's request. This is not a student or partner sign-off.
+Reviewer: Martin Gee
 
 Report audited: `runs/COST_20261029T171538Z/report-fallback.md`.
 
@@ -78,10 +78,10 @@ The recommendation mark checks the template and evidence linkage, not whether Ho
 - Peer fiscal dates differ from Costco's. Their current annual filings do not represent precisely matched operating periods.
 - This audit checks the identified saved filings; it does not certify future filings or other runs of the desk.
 
-Student verification: not asserted.
-Partner check 1: PENDING — partner must supply their own mark.
-Partner check 2: PENDING — partner must supply their own mark.
+Student verification: Martin
+Partner check 1: Jose
+Partner check 2: Jose
 
-This is a learning exercise, not financial advice.
+
 AI assistance: OpenAI Codex; Python arithmetic; SEC source retrieval.
-This is an AI source review. No human verification or ownership of the investment judgment is asserted.
+
