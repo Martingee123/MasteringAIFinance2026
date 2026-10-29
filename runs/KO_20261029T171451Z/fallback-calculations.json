@@ -1,0 +1,12 @@
+{
+  "quarterly_revenue_growth": {
+    "inputs": [
+      13380,
+      12455
+    ],
+    "unit": "USD millions",
+    "value": 0.07426736250501809,
+    "arithmetic": "13380 / 12455 - 1",
+    "source": "earnings.txt L459-L473"
+  }
+}
