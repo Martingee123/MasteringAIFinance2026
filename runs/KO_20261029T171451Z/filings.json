@@ -1,0 +1,26 @@
+{
+  "annual": {
+    "accession": "0001628280-26-010047",
+    "accepted": "2026-02-20 09:46:32",
+    "filing_date": "2026-02-20",
+    "period_end": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/ko-20251231.htm",
+    "index_url": "https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/0001628280-26-010047-index.html"
+  },
+  "quarterly": {
+    "accession": "0001628280-26-067844",
+    "accepted": "2026-10-28 14:22:38",
+    "filing_date": "2026-10-28",
+    "period_end": "2026-10-02",
+    "url": "https://www.sec.gov/Archives/edgar/data/21344/000162828026067844/ko-20261002.htm",
+    "index_url": "https://www.sec.gov/Archives/edgar/data/21344/000162828026067844/0001628280-26-067844-index.html"
+  },
+  "earnings": {
+    "accession": "0001628280-26-067403",
+    "accepted": "2026-10-27 06:58:13",
+    "filing_date": "2026-10-27",
+    "period_end": "2026-10-27",
+    "url": "https://www.sec.gov/Archives/edgar/data/21344/000162828026067403/a2026q3earningsreleaseex-9.htm",
+    "index_url": "https://www.sec.gov/Archives/edgar/data/21344/000162828026067403/0001628280-26-067403-index.html"
+  }
+}

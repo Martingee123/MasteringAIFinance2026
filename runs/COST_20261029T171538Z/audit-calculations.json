@@ -1,0 +1,10 @@
+{
+  "report_sha256": "3dc719db51cd4e2f126f05c1e4940a04b8e69fe2d98074da493ee2df158eec62",
+  "calculation_inputs_checked_against": "numbered annual.txt and earnings.txt",
+  "annual_revenue_growth_percent": 10.143695387577889,
+  "operating_margin_percent": 3.8544766026507977,
+  "return_on_average_equity_percent": 28.402111841396398,
+  "debt_to_equity": 0.17210848252939698,
+  "free_cash_flow_usd_millions": 9382,
+  "quarter_revenue_growth_percent": 11.104275964529453
+}

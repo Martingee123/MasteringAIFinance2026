@@ -1,0 +1,275 @@
+{
+  "total_revenue": {
+    "current": {
+      "start": "2025-09-01",
+      "end": "2026-08-30",
+      "val": 303154000000,
+      "accn": "0000909832-26-000093",
+      "fy": 2026,
+      "fp": "FY",
+      "form": "10-K",
+      "filed": "2026-10-07",
+      "frame": "CY2026",
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "unit": "USD",
+      "priority": 1
+    },
+    "prior": {
+      "start": "2024-09-02",
+      "end": "2025-08-31",
+      "val": 275235000000,
+      "accn": "0000909832-26-000093",
+      "fy": 2026,
+      "fp": "FY",
+      "form": "10-K",
+      "filed": "2026-10-07",
+      "frame": "CY2025",
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "unit": "USD",
+      "priority": 1
+    },
+    "definition": "Amount, excluding tax collected from customer, of revenue from satisfaction of performance obligation by transferring promised good or service to customer. Tax collected from customer is tax assessed by governmental authority that is both imposed on and concurrent with specific revenue-producing transaction, including, but not limited to, sales, use, value added and excise."
+  },
+  "operating_income": {
+    "current": {
+      "start": "2025-09-01",
+      "end": "2026-08-30",
+      "val": 11685000000,
+      "accn": "0000909832-26-000093",
+      "fy": 2026,
+      "fp": "FY",
+      "form": "10-K",
+      "filed": "2026-10-07",
+      "frame": "CY2026",
+      "tag": "OperatingIncomeLoss",
+      "unit": "USD",
+      "priority": 0
+    },
+    "prior": {
+      "start": "2024-09-02",
+      "end": "2025-08-31",
+      "val": 10383000000,
+      "accn": "0000909832-26-000093",
+      "fy": 2026,
+      "fp": "FY",
+      "form": "10-K",
+      "filed": "2026-10-07",
+      "frame": "CY2025",
+      "tag": "OperatingIncomeLoss",
+      "unit": "USD",
+      "priority": 0
+    },
+    "definition": "The net result for the period of deducting operating expenses from operating revenues."
+  },
+  "net_income": {
+    "current": {
+      "start": "2025-09-01",
+      "end": "2026-08-30",
+      "val": 9226000000,
+      "accn": "0000909832-26-000093",
+      "fy": 2026,
+      "fp": "FY",
+      "form": "10-K",
+      "filed": "2026-10-07",
+      "frame": "CY2026",
+      "tag": "NetIncomeLoss",
+      "unit": "USD",
+      "priority": 0
+    },
+    "prior": {
+      "start": "2024-09-02",
+      "end": "2025-08-31",
+      "val": 8099000000,
+      "accn": "0000909832-26-000093",
+      "fy": 2026,
+      "fp": "FY",
+      "form": "10-K",
+      "filed": "2026-10-07",
+      "frame": "CY2025",
+      "tag": "NetIncomeLoss",
+      "unit": "USD",
+      "priority": 0
+    },
+    "definition": "The portion of profit or loss for the period, net of income taxes, which is attributable to the parent."
+  },
+  "diluted_eps": {
+    "current": {
+      "start": "2025-09-01",
+      "end": "2026-08-30",
+      "val": 20.76,
+      "accn": "0000909832-26-000093",
+      "fy": 2026,
+      "fp": "FY",
+      "form": "10-K",
+      "filed": "2026-10-07",
+      "frame": "CY2026",
+      "tag": "EarningsPerShareDiluted",
+      "unit": "USD/shares",
+      "priority": 0
+    },
+    "prior": {
+      "start": "2024-09-02",
+      "end": "2025-08-31",
+      "val": 18.21,
+      "accn": "0000909832-26-000093",
+      "fy": 2026,
+      "fp": "FY",
+      "form": "10-K",
+      "filed": "2026-10-07",
+      "frame": "CY2025",
+      "tag": "EarningsPerShareDiluted",
+      "unit": "USD/shares",
+      "priority": 0
+    },
+    "definition": "The amount of net income (loss) for the period available to each share of common stock or common unit outstanding during the reporting period and to each share or unit that would have been outstanding assuming the issuance of common shares or units for all dilutive potential common shares or units outstanding during the reporting period."
+  },
+  "equity": {
+    "current": {
+      "end": "2026-08-30",
+      "val": 35803000000,
+      "accn": "0000909832-26-000093",
+      "fy": 2026,
+      "fp": "FY",
+      "form": "10-K",
+      "filed": "2026-10-07",
+      "frame": "CY2026Q3I",
+      "tag": "StockholdersEquity",
+      "unit": "USD",
+      "priority": 0
+    },
+    "prior": {
+      "end": "2025-08-31",
+      "val": 29164000000,
+      "accn": "0000909832-26-000093",
+      "fy": 2026,
+      "fp": "FY",
+      "form": "10-K",
+      "filed": "2026-10-07",
+      "frame": "CY2025Q3I",
+      "tag": "StockholdersEquity",
+      "unit": "USD",
+      "priority": 0
+    },
+    "definition": "Total of all stockholders' equity (deficit) items, net of receivables from officers, directors, owners, and affiliates of the entity which are attributable to the parent. The amount of the economic entity's stockholders' equity attributable to the parent excludes the amount of stockholders' equity which is allocable to that ownership interest in subsidiary equity which is not attributable to the parent (noncontrolling interest, minority interest). This excludes temporary equity and is sometimes called permanent equity."
+  },
+  "long_term_debt": {
+    "current": {
+      "end": "2026-08-30",
+      "val": 3914000000,
+      "accn": "0000909832-26-000093",
+      "fy": 2026,
+      "fp": "FY",
+      "form": "10-K",
+      "filed": "2026-10-07",
+      "frame": "CY2026Q3I",
+      "tag": "LongTermDebtNoncurrent",
+      "unit": "USD",
+      "priority": 0
+    },
+    "prior": {
+      "end": "2025-08-31",
+      "val": 5713000000,
+      "accn": "0000909832-26-000093",
+      "fy": 2026,
+      "fp": "FY",
+      "form": "10-K",
+      "filed": "2026-10-07",
+      "frame": "CY2025Q3I",
+      "tag": "LongTermDebtNoncurrent",
+      "unit": "USD",
+      "priority": 0
+    },
+    "definition": "Amount after unamortized (discount) premium and debt issuance costs of long-term debt classified as noncurrent and excluding amounts to be repaid within one year or the normal operating cycle, if longer. Includes, but not limited to, notes payable, bonds payable, debentures, mortgage loans and commercial paper. Excludes capital lease obligations."
+  },
+  "current_debt": {
+    "current": {
+      "end": "2026-08-30",
+      "val": 2248000000,
+      "accn": "0000909832-26-000093",
+      "fy": 2026,
+      "fp": "FY",
+      "form": "10-K",
+      "filed": "2026-10-07",
+      "frame": "CY2026Q3I",
+      "tag": "LongTermDebtCurrent",
+      "unit": "USD",
+      "priority": 0
+    },
+    "prior": {
+      "end": "2025-08-31",
+      "val": 75000000,
+      "accn": "0000909832-26-000093",
+      "fy": 2026,
+      "fp": "FY",
+      "form": "10-K",
+      "filed": "2026-10-07",
+      "frame": "CY2025Q3I",
+      "tag": "LongTermDebtCurrent",
+      "unit": "USD",
+      "priority": 0
+    },
+    "definition": "Amount, after unamortized (discount) premium and debt issuance costs, of long-term debt, classified as current. Includes, but not limited to, notes payable, bonds payable, debentures, mortgage loans and commercial paper. Excludes capital lease obligations."
+  },
+  "cash_from_operations": {
+    "current": {
+      "start": "2025-09-01",
+      "end": "2026-08-30",
+      "val": 15817000000,
+      "accn": "0000909832-26-000093",
+      "fy": 2026,
+      "fp": "FY",
+      "form": "10-K",
+      "filed": "2026-10-07",
+      "frame": "CY2026",
+      "tag": "NetCashProvidedByUsedInOperatingActivities",
+      "unit": "USD",
+      "priority": 0
+    },
+    "prior": {
+      "start": "2024-09-02",
+      "end": "2025-08-31",
+      "val": 13335000000,
+      "accn": "0000909832-26-000093",
+      "fy": 2026,
+      "fp": "FY",
+      "form": "10-K",
+      "filed": "2026-10-07",
+      "frame": "CY2025",
+      "tag": "NetCashProvidedByUsedInOperatingActivities",
+      "unit": "USD",
+      "priority": 0
+    },
+    "definition": "Amount of cash inflow (outflow) from operating activities, including discontinued operations. Operating activity cash flows include transactions, adjustments, and changes in value not defined as investing or financing activities."
+  },
+  "capital_expenditures": {
+    "current": {
+      "start": "2025-09-01",
+      "end": "2026-08-30",
+      "val": 6435000000,
+      "accn": "0000909832-26-000093",
+      "fy": 2026,
+      "fp": "FY",
+      "form": "10-K",
+      "filed": "2026-10-07",
+      "frame": "CY2026",
+      "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+      "unit": "USD",
+      "priority": 0
+    },
+    "prior": {
+      "start": "2024-09-02",
+      "end": "2025-08-31",
+      "val": 5498000000,
+      "accn": "0000909832-26-000093",
+      "fy": 2026,
+      "fp": "FY",
+      "form": "10-K",
+      "filed": "2026-10-07",
+      "frame": "CY2025",
+      "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+      "unit": "USD",
+      "priority": 0
+    },
+    "definition": "The cash outflow associated with the acquisition of long-lived, physical assets that are used in the normal conduct of business to produce goods and services and not intended for resale; includes cash outflows to pay for construction of self-constructed assets."
+  }
+}
