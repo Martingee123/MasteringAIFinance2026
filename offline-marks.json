@@ -75,19 +75,19 @@
     {
       "core_claim": 5,
       "label": "Annual GAAP diluted EPS",
-      "reported": "$21.76",
+      "reported": "$20.76",
       "expected": [
         20.76
       ],
-      "code_mark": "wrong",
+      "code_mark": "code correct",
       "semantic_check": "NOT RUN — no model provider",
       "arithmetic": "",
       "evidence": [
         "facts.json EarningsPerShareDiluted 2026-08-30: 20.76 USD/shares",
         "Diluted\n$\n20.76\n$\n18.21\n$\n16.56"
       ],
-      "reason": "Reported value differs from saved facts / recomputed arithmetic.",
-      "original_row": "| 5 | Annual GAAP diluted EPS | $21.76 | Diluted net income per common share: 20.76 | annual.txt L1219–L1225 | [Seeded false source quotation: \"Annual diluted EPS 21.76\".]"
+      "reason": "Matches saved facts / recomputed arithmetic.",
+      "original_row": "| 5 | Annual GAAP diluted EPS | $20.76 | Diluted net income per common share: 20.76 | annual.txt L1219–L1225 |"
     },
     {
       "core_claim": 6,
@@ -193,6 +193,22 @@
       ],
       "reason": "Matches saved facts / recomputed arithmetic.",
       "original_row": "| 11 | Quarter GAAP diluted EPS | $6.75 | Diluted net income per common share: 6.75 | earnings.txt L144–L152; also L44 |"
+    },
+    {
+      "core_claim": "seeded growth",
+      "label": "Additional annual growth assertion",
+      "reported": "14.14%",
+      "expected": [
+        10.143695387577889
+      ],
+      "code_mark": "wrong",
+      "semantic_check": "NOT RUN — no model provider",
+      "arithmetic": "(303154000000.0 / 275235000000.0 - 1) * 100",
+      "evidence": [
+        "facts.json RevenueFromContractWithCustomerExcludingAssessedTax 2026-08-30 and 2025-08-31"
+      ],
+      "reason": "Quoted inputs independently matched to saved annual facts.",
+      "original_row": "Annual revenue growth is 14.14%, defined as (303154000000 / 275235000000 - 1) * 100"
     }
   ]
 }

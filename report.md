@@ -20,6 +20,9 @@ The release reports $0.15 per diluted share of benefit from tariff refunds, afte
 
 ## Valuation Insights
 
+Annual revenue growth is 14.14%, defined as (303154000000 / 275235000000 - 1) * 100. Inputs: revenue 303154000000 USD [facts.json; RevenueFromContractWithCustomerExcludingAssessedTax; 2026-08-30], prior revenue 275235000000 USD [facts.json; RevenueFromContractWithCustomerExcludingAssessedTax; 2025-08-31]. The claimed rate is a seeded test error.
+
+
 All dollar figures below are USD millions except per-share amounts. Total revenue includes membership fees. ROAE uses average beginning- and end-year equity. Debt/equity includes the current portion of long-term debt. Free cash flow is operating cash minus additions to property and equipment, following the course definition.
 
 | # | Core claim | Figure | Arithmetic / definition | Source |
@@ -28,7 +31,7 @@ All dollar figures below are USD millions except per-share amounts. Total revenu
 | 2 | Annual revenue growth | 10.14% | (303,154 / 275,235 − 1) × 100 = 10.1436953876% | annual.txt L1164–L1167 |
 | 3 | Operating income and margin | $11,685 million; 3.85% | 11,685 / 303,154 × 100 = 3.8544766027% | annual.txt L1177–L1180 and L1164–L1167 |
 | 4 | Net income attributable to Costco | $9,226 million | Net income: 9,226 | annual.txt L1204–L1210; NetIncomeLoss, FY 2026 |
-| 5 | Annual GAAP diluted EPS | $21.76 | Diluted net income per common share: 20.76 | annual.txt L1219–L1225 | [Seeded false source quotation: "Annual diluted EPS 21.76".]
+| 5 | Annual GAAP diluted EPS | $20.76 | Diluted net income per common share: 20.76 | annual.txt L1219–L1225 |
 | 6 | Return on average equity | 28.40% | 9,226 / ((35,803 + 29,164) / 2) × 100 = 28.4021118414% | annual.txt L1204–L1210 and L1386–L1388 |
 | 7 | Long-term debt including current portion / equity | 0.1721× | (3,914 + 2,248) / 35,803 = 0.1721084825× | annual.txt L1331–L1333, L1341–L1343, L1386–L1388 |
 | 8 | Free cash flow | $9,382 million | 15,817 operating cash − 6,435 capital expenditures = 9,382 | annual.txt L1703–L1714 |

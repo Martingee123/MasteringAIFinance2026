@@ -10,13 +10,14 @@ This is a code-only review of an existing fallback report. It is not an executed
 | Annual revenue growth | code correct | 10.14% | [10.143695387577889] | (303154000000 / 275235000000) - 1 * 100 for percent; facts.json RevenueFromContractWithCustomerExcludingAssessedTax 2026-08-30: 303154000000 USD |
 | Operating income and margin | code correct | $11,685 million; 3.85% | [11685.0, 3.8544766026507977] | 11685000000 / 303154000000 * 100 for percent; facts.json OperatingIncomeLoss 2026-08-30: 11685000000 USD |
 | Net income attributable to Costco | code correct | $9,226 million | [9226.0] | ; facts.json NetIncomeLoss 2026-08-30: 9226000000 USD |
-| Annual GAAP diluted EPS | wrong | $21.76 | [20.76] | ; facts.json EarningsPerShareDiluted 2026-08-30: 20.76 USD/shares |
+| Annual GAAP diluted EPS | code correct | $20.76 | [20.76] | ; facts.json EarningsPerShareDiluted 2026-08-30: 20.76 USD/shares |
 | Return on average equity | code correct | 28.40% | [28.402111841396398] | 9226000000 / ((35803000000 + 29164000000) / 2) * 100 for percent; facts.json NetIncomeLoss 2026-08-30: 9226000000 USD |
 | Long-term debt including current portion / equity | code correct | 0.1721× | [0.17210848252939698] | (3914000000 + 2248000000) / 35803000000; facts.json LongTermDebtNoncurrent 2026-08-30: 3914000000 USD |
 | Free cash flow | code correct | $9,382 million | [9382.0] | 15817000000 - 6435000000; facts.json NetCashProvidedByUsedInOperatingActivities 2026-08-30: 15817000000 USD |
 | Latest quarter total revenue | code correct | $95,723 million | [95723.0] | 95723.0; COSTCO WHOLESALE CORPORATION CONSOLIDATED STATEMENTS OF INCOME (dollars in millions, except per share data) (unaudited) 16 Weeks Ended 52 Weeks Ended August 30, 2026 August 31, 2025 August 30, 2026 August 31, 2025 REVENUE Net sales $ 93,873 $ 84,432 $ 297,247 $ 269,912 Membership fees 1,850 1,724 5,907 5,323 Total revenue 95,723 86,156 |
 | Quarter total revenue growth | code correct | 11.10% | [11.104275964529453] | (95723.0 / 86156.0 - 1) * 100; COSTCO WHOLESALE CORPORATION CONSOLIDATED STATEMENTS OF INCOME (dollars in millions, except per share data) (unaudited) 16 Weeks Ended 52 Weeks Ended August 30, 2026 August 31, 2025 August 30, 2026 August 31, 2025 REVENUE Net sales $ 93,873 $ 84,432 $ 297,247 $ 269,912 Membership fees 1,850 1,724 5,907 5,323 Total revenue 95,723 86,156 |
 | Quarter GAAP diluted EPS | code correct | $6.75 | [6.75] | ; Net income for the fourth quarter was $2.998 billion, $6.75 per diluted share, compared to $2.610 billion, $5.87 per diluted share, last year. This year's fourth quarter was positively impacted by a non-recurring benefit of $0.15 per diluted share from IEEPA tariff refunds received in the quarter, less partial reinvestment of those refunds in incre |
+| Additional annual growth assertion | wrong | 14.14% | [10.143695387577889] | (303154000000.0 / 275235000000.0 - 1) * 100; facts.json RevenueFromContractWithCustomerExcludingAssessedTax 2026-08-30 and 2025-08-31 |
 
 ## Saved fallback report with offline numerical corrections
 
@@ -41,6 +42,9 @@ The release reports $0.15 per diluted share of benefit from tariff refunds, afte
 
 ## Valuation Insights
 
+[OFFLINE CORRECTION: Additional annual growth assertion; expected [10.143695387577889]. See code evidence above. Original erroneous assertion removed.]. Inputs: revenue 303154000000 USD [facts.json; RevenueFromContractWithCustomerExcludingAssessedTax; 2026-08-30], prior revenue 275235000000 USD [facts.json; RevenueFromContractWithCustomerExcludingAssessedTax; 2025-08-31]. The claimed rate is a seeded test error.
+
+
 All dollar figures below are USD millions except per-share amounts. Total revenue includes membership fees. ROAE uses average beginning- and end-year equity. Debt/equity includes the current portion of long-term debt. Free cash flow is operating cash minus additions to property and equipment, following the course definition.
 
 | # | Core claim | Figure | Arithmetic / definition | Source |
@@ -49,7 +53,7 @@ All dollar figures below are USD millions except per-share amounts. Total revenu
 | 2 | Annual revenue growth | 10.14% | (303,154 / 275,235 − 1) × 100 = 10.1436953876% | annual.txt L1164–L1167 |
 | 3 | Operating income and margin | $11,685 million; 3.85% | 11,685 / 303,154 × 100 = 3.8544766027% | annual.txt L1177–L1180 and L1164–L1167 |
 | 4 | Net income attributable to Costco | $9,226 million | Net income: 9,226 | annual.txt L1204–L1210; NetIncomeLoss, FY 2026 |
-[OFFLINE CORRECTION: Annual GAAP diluted EPS; expected [20.76]. See code evidence above. Original erroneous assertion removed.]
+| 5 | Annual GAAP diluted EPS | $20.76 | Diluted net income per common share: 20.76 | annual.txt L1219–L1225 |
 | 6 | Return on average equity | 28.40% | 9,226 / ((35,803 + 29,164) / 2) × 100 = 28.4021118414% | annual.txt L1204–L1210 and L1386–L1388 |
 | 7 | Long-term debt including current portion / equity | 0.1721× | (3,914 + 2,248) / 35,803 = 0.1721084825× | annual.txt L1331–L1333, L1341–L1343, L1386–L1388 |
 | 8 | Free cash flow | $9,382 million | 15,817 operating cash − 6,435 capital expenditures = 9,382 | annual.txt L1703–L1714 |
