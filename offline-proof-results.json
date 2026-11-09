@@ -1,0 +1,29 @@
+{
+  "mode": "Offline numerical checks only; model-backed verification not run.",
+  "results": {
+    "clean": {
+      "folder": "runs/COST_20261106T064855680681Z_offline",
+      "marks": {
+        "code correct": 11,
+        "wrong": 0,
+        "unsupported": 0
+      }
+    },
+    "seeded-eps": {
+      "folder": "runs/COST_20261106T064855963715Z_offline",
+      "marks": {
+        "code correct": 10,
+        "wrong": 1,
+        "unsupported": 0
+      }
+    },
+    "invented-growth": {
+      "folder": "runs/COST_20261106T064856179608Z_offline",
+      "marks": {
+        "code correct": 11,
+        "wrong": 1,
+        "unsupported": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "source_run": "/Users/martingee/Documents/Courses/MasteringAIFinance2026/checkpoint-1/runs/COST_20261029T171538Z",
+  "trials": {
+    "clean": "runs/COST_20261106T064523278758Z_clean",
+    "seeded-eps": "runs/COST_20261106T064523320138Z_seeded-eps",
+    "invented-growth": "runs/COST_20261106T064523346161Z_invented-growth"
+  },
+  "known_answers": {
+    "annual_eps": 20.76,
+    "seeded_eps": 21.76,
+    "revenue_growth_percent": 10.143695387577889,
+    "invented_growth_percent": 14.143695387577889
+  },
+  "status": "Prepared, not model-verified. Run with --execute when provider access is available."
+}
