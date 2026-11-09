@@ -1,0 +1,2392 @@
+L1: cost-20260510
+L2: Table of Contents
+L3: UNITED STATES
+L4: SECURITIES AND EXCHANGE COMMISSION
+L5: Washington, D.C. 20549
+L6: FORM
+L7: 10-Q
+L8: ☒
+L9: QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+L10: For the quarterly period ended
+L11: May 10, 2026
+L12: or
+L13: ☐
+L14: TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+L15: Commission file number
+L16: 0-20355
+L17: Costco Wholesale Corporation
+L18: (Exact name of registrant as specified in its charter)
+L19: Washington
+L20: 91-1223280
+L21: (State or other jurisdiction of
+L22: incorporation or organization)
+L23: (I.R.S. Employer Identification No.)
+L24: 999 Lake Drive
+L25: ,
+L26: Issaquah
+L27: ,
+L28: WA
+L29: 98027
+L30: (Address of principal executive offices) (Zip Code)
+L31: (Registrant’s telephone number, including area code):
+L32: (
+L33: 425
+L34: )
+L35: 313-8100
+L36: Securities registered pursuant to Section 12(b) of the Act:
+L37: Title of each class
+L38: Trading symbol(s)
+L39: Name of each exchange on which registered
+L40: Common Stock, $.005 Par Value
+L41: COST
+L42: The Nasdaq Global Select Market
+L43: Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+L44: Yes
+L45: ☒
+L46: No
+L47: ☐
+L48: Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+L49: Yes
+L50: ☒
+L51: No
+L52: ☐
+L53: Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+L54: Large accelerated filer
+L55: ☒
+L56: Accelerated filer
+L57: ☐
+L58: Non-accelerated filer
+L59: ☐
+L60: Smaller reporting company
+L61: ☐
+L62: Emerging growth company
+L63: ☐
+L64: If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+L65: ☐
+L66: Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes
+L67: ☐
+L68: No
+L69: ☒
+L70: The number of shares outstanding of the issuer's common stock as of May 27, 2026, was
+L71: 443,478,804
+L72: .
+L73: 1
+L74: Table of Contents
+L75: COSTCO WHOLESALE CORPORATION
+L76: INDEX TO FORM 10-Q
+L77: Page
+L78: PART I
+L79: FINANCIAL INFORMATION
+L80: Item 1.
+L81: Financial Statements
+L82: 3
+L83: Condensed Consolidated Statements of Income
+L84: 3
+L85: Condensed Consolidated Statements of Comprehensive Income
+L86: 4
+L87: Condensed Consolidated Balance Sheets
+L88: 5
+L89: Condensed Consolidated Statements of Equity
+L90: 6
+L91: Condensed Consolidated Statements of Cash Flows
+L92: 8
+L93: Notes to Condensed Consolidated Financial Statements
+L94: 9
+L95: Item 2.
+L96: Management’s Discussion and Analysis of Financial Condition and Results of Operations
+L97: 18
+L98: Item 3.
+L99: Quantitative and Qualitative Disclosures About Market Risk
+L100: 27
+L101: Item 4.
+L102: Controls and Procedures
+L103: 27
+L104: PART II
+L105: OTHER INFORMATION
+L106: Item 1.
+L107: Legal Proceedings
+L108: 27
+L109: Item 1A.
+L110: Risk Factors
+L111: 27
+L112: Item 2.
+L113: Unregistered Sales of Equity Securities and Use of Proceeds
+L114: 28
+L115: Item 3.
+L116: Defaults Upon Senior Securities
+L117: 28
+L118: Item 4.
+L119: Mine Safety Disclosures
+L120: 28
+L121: Item 5.
+L122: Other Information
+L123: 28
+L124: Item 6.
+L125: Exhibits
+L126: 29
+L127: Signatures
+L128: 30
+L129: 2
+L130: Table of Contents
+L131: PART I—FINANCIAL INFORMATION
+L132: Item 1—Financial Statements
+L133: COSTCO WHOLESALE CORPORATION
+L134: CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+L135: (amounts in millions, except per share data) (unaudited)
+L136: 12 Weeks Ended
+L137: 36 Weeks Ended
+L138: May 10,
+L139: 2026
+L140: May 11,
+L141: 2025
+L142: May 10,
+L143: 2026
+L144: May 11,
+L145: 2025
+L146: REVENUE
+L147: Net sales
+L148: $
+L149: 69,154
+L150: $
+L151: 61,965
+L152: $
+L153: 203,374
+L154: $
+L155: 185,480
+L156: Membership fees
+L157: 1,373
+L158: 1,240
+L159: 4,057
+L160: 3,599
+L161: Total revenue
+L162: 70,527
+L163: 63,205
+L164: 207,431
+L165: 189,079
+L166: OPERATING EXPENSES
+L167: Merchandise costs
+L168: 61,519
+L169: 54,996
+L170: 180,748
+L171: 164,849
+L172: Selling, general and administrative
+L173: 6,193
+L174: 5,679
+L175: 18,799
+L176: 17,188
+L177: Operating income
+L178: 2,815
+L179: 2,530
+L180: 7,884
+L181: 7,042
+L182: OTHER INCOME (EXPENSE)
+L183: Interest expense
+L184: (
+L185: 32
+L186: )
+L187: (
+L188: 35
+L189: )
+L190: (
+L191: 100
+L192: )
+L193: (
+L194: 108
+L195: )
+L196: Interest income and other, net
+L197: 155
+L198: 85
+L199: 458
+L200: 374
+L201: INCOME BEFORE INCOME TAXES
+L202: 2,938
+L203: 2,580
+L204: 8,242
+L205: 7,308
+L206: Provision for income taxes
+L207: 746
+L208: 677
+L209: 2,014
+L210: 1,819
+L211: NET INCOME
+L212: $
+L213: 2,192
+L214: $
+L215: 1,903
+L216: $
+L217: 6,228
+L218: $
+L219: 5,489
+L220: NET INCOME PER COMMON SHARE:
+L221: Basic
+L222: $
+L223: 4.94
+L224: $
+L225: 4.29
+L226: $
+L227: 14.03
+L228: $
+L229: 12.36
+L230: Diluted
+L231: $
+L232: 4.93
+L233: $
+L234: 4.28
+L235: $
+L236: 14.01
+L237: $
+L238: 12.34
+L239: Shares used in calculation (000s):
+L240: Basic
+L241: 443,923
+L242: 443,958
+L243: 443,943
+L244: 443,976
+L245: Diluted
+L246: 444,430
+L247: 444,762
+L248: 444,455
+L249: 444,846
+L250: The accompanying notes are an integral part of these condensed consolidated financial statements.
+L251: 3
+L252: Table of Contents
+L253: COSTCO WHOLESALE CORPORATION
+L254: CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+L255: (amounts in millions) (unaudited)
+L256: 12 Weeks Ended
+L257: 36 Weeks Ended
+L258: May 10,
+L259: 2026
+L260: May 11,
+L261: 2025
+L262: May 10,
+L263: 2026
+L264: May 11,
+L265: 2025
+L266: NET INCOME
+L267: $
+L268: 2,192
+L269: $
+L270: 1,903
+L271: $
+L272: 6,228
+L273: $
+L274: 5,489
+L275: Foreign-currency translation adjustment and other, net
+L276: (
+L277: 52
+L278: )
+L279: 327
+L280: 112
+L281: (
+L282: 87
+L283: )
+L284: COMPREHENSIVE INCOME
+L285: $
+L286: 2,140
+L287: $
+L288: 2,230
+L289: $
+L290: 6,340
+L291: $
+L292: 5,402
+L293: The accompanying notes are an integral part of these condensed consolidated financial statements.
+L294: 4
+L295: Table of Contents
+L296: COSTCO WHOLESALE CORPORATION
+L297: CONDENSED CONSOLIDATED BALANCE SHEETS
+L298: (amounts in millions, except par value and share data) (unaudited)
+L299: May 10,
+L300: 2026
+L301: August 31,
+L302: 2025
+L303: ASSETS
+L304: CURRENT ASSETS
+L305: Cash and cash equivalents
+L306: $
+L307: 18,946
+L308: $
+L309: 14,161
+L310: Short-term investments
+L311: 1,050
+L312: 1,123
+L313: Receivables, net
+L314: 3,750
+L315: 3,203
+L316: Merchandise inventories
+L317: 19,418
+L318: 18,116
+L319: Other current assets
+L320: 2,013
+L321: 1,777
+L322: Total current assets
+L323: 45,177
+L324: 38,380
+L325: OTHER ASSETS
+L326: Property and equipment, net
+L327: 34,293
+L328: 31,909
+L329: Operating lease right-of-use assets
+L330: 2,747
+L331: 2,725
+L332: Other long-term assets
+L333: 4,213
+L334: 4,085
+L335: TOTAL ASSETS
+L336: $
+L337: 86,430
+L338: $
+L339: 77,099
+L340: LIABILITIES AND EQUITY
+L341: CURRENT LIABILITIES
+L342: Accounts payable
+L343: $
+L344: 22,363
+L345: $
+L346: 19,783
+L347: Accrued salaries and benefits
+L348: 5,218
+L349: 5,205
+L350: Accrued member rewards
+L351: 2,948
+L352: 2,677
+L353: Deferred membership fees
+L354: 3,157
+L355: 2,854
+L356: Other current liabilities
+L357: 8,439
+L358: 6,589
+L359: Total current liabilities
+L360: 42,125
+L361: 37,108
+L362: OTHER LIABILITIES
+L363: Long-term debt, excluding current portion
+L364: 5,670
+L365: 5,713
+L366: Long-term operating lease liabilities
+L367: 2,466
+L368: 2,460
+L369: Other long-term liabilities
+L370: 2,660
+L371: 2,654
+L372: TOTAL LIABILITIES
+L373: 52,921
+L374: 47,935
+L375: COMMITMENTS AND CONTINGENCIES
+L376: EQUITY
+L377: Preferred stock $0.005 par value; 100,000,000 shares authorized; no shares issued and outstanding
+L378: —
+L379: —
+L380: Common stock $0.005 par value; 900,000,000 shares authorized; 443,514,000 and 443,237,000 shares issued and outstanding
+L381: 2
+L382: 2
+L383: Additional paid-in capital
+L384: 8,683
+L385: 8,282
+L386: Accumulated other comprehensive loss
+L387: (
+L388: 1,658
+L389: )
+L390: (
+L391: 1,770
+L392: )
+L393: Retained earnings
+L394: 26,482
+L395: 22,650
+L396: TOTAL EQUITY
+L397: 33,509
+L398: 29,164
+L399: TOTAL LIABILITIES AND EQUITY
+L400: $
+L401: 86,430
+L402: $
+L403: 77,099
+L404: The accompanying notes are an integral part of these condensed consolidated financial statements.
+L405: 5
+L406: Table of Contents
+L407: COSTCO WHOLESALE CORPORATION
+L408: CONDENSED CONSOLIDATED STATEMENTS OF EQUITY
+L409: (amounts in millions) (unaudited)
+L410: 12 Weeks Ended May 10, 2026
+L411: Common Stock
+L412: Additional
+L413: Paid-in
+L414: Capital
+L415: Accumulated
+L416: Other
+L417: Comprehensive Income (Loss)
+L418: Retained
+L419: Earnings
+L420: Total
+L421: Equity
+L422: Shares (000s)
+L423: Amount
+L424: BALANCE AT FEBRUARY 15, 2026
+L425: 443,692
+L426: $
+L427: 2
+L428: $
+L429: 8,570
+L430: $
+L431: (
+L432: 1,606
+L433: )
+L434: $
+L435: 25,121
+L436: $
+L437: 32,087
+L438: Net income
+L439: —
+L440: —
+L441: —
+L442: —
+L443: 2,192
+L444: 2,192
+L445: Foreign-currency translation adjustment and other, net
+L446: —
+L447: —
+L448: —
+L449: (
+L450: 52
+L451: )
+L452: —
+L453: (
+L454: 52
+L455: )
+L456: Stock-based compensation
+L457: —
+L458: —
+L459: 120
+L460: —
+L461: —
+L462: 120
+L463: Release of vested restricted stock units (RSUs), including tax effects
+L464: 6
+L465: —
+L466: (
+L467: 3
+L468: )
+L469: —
+L470: —
+L471: (
+L472: 3
+L473: )
+L474: Repurchases of common stock
+L475: (
+L476: 184
+L477: )
+L478: —
+L479: (
+L480: 4
+L481: )
+L482: —
+L483: (
+L484: 179
+L485: )
+L486: (
+L487: 183
+L488: )
+L489: Cash dividend declared
+L490: —
+L491: —
+L492: —
+L493: —
+L494: (
+L495: 652
+L496: )
+L497: (
+L498: 652
+L499: )
+L500: BALANCE AT MAY 10, 2026
+L501: 443,514
+L502: $
+L503: 2
+L504: $
+L505: 8,683
+L506: $
+L507: (
+L508: 1,658
+L509: )
+L510: $
+L511: 26,482
+L512: $
+L513: 33,509
+L514: 12 Weeks Ended May 11, 2025
+L515: Common Stock
+L516: Additional
+L517: Paid-in
+L518: Capital
+L519: Accumulated
+L520: Other
+L521: Comprehensive Income (Loss)
+L522: Retained
+L523: Earnings
+L524: Total
+L525: Equity
+L526: Shares (000s)
+L527: Amount
+L528: BALANCE AT FEBRUARY 16, 2025
+L529: 443,730
+L530: $
+L531: 2
+L532: $
+L533: 8,047
+L534: $
+L535: (
+L536: 2,242
+L537: )
+L538: $
+L539: 19,770
+L540: $
+L541: 25,577
+L542: Net income
+L543: —
+L544: —
+L545: —
+L546: —
+L547: 1,903
+L548: 1,903
+L549: Foreign-currency translation adjustment and other, net
+L550: —
+L551: —
+L552: —
+L553: 327
+L554: —
+L555: 327
+L556: Stock-based compensation
+L557: —
+L558: —
+L559: 107
+L560: —
+L561: —
+L562: 107
+L563: Release of vested RSUs, including tax effects
+L564: 4
+L565: —
+L566: (
+L567: 2
+L568: )
+L569: —
+L570: —
+L571: (
+L572: 2
+L573: )
+L574: Repurchases of common stock
+L575: (
+L576: 215
+L577: )
+L578: —
+L579: (
+L580: 4
+L581: )
+L582: —
+L583: (
+L584: 206
+L585: )
+L586: (
+L587: 210
+L588: )
+L589: Cash dividend declared
+L590: —
+L591: —
+L592: —
+L593: —
+L594: (
+L595: 577
+L596: )
+L597: (
+L598: 577
+L599: )
+L600: BALANCE AT MAY 11, 2025
+L601: 443,519
+L602: $
+L603: 2
+L604: $
+L605: 8,148
+L606: $
+L607: (
+L608: 1,915
+L609: )
+L610: $
+L611: 20,890
+L612: $
+L613: 27,125
+L614: The accompanying notes are an integral part of these condensed consolidated financial statements.
+L615: 6
+L616: Table of Contents
+L617: COSTCO WHOLESALE CORPORATION
+L618: CONDENSED CONSOLIDATED STATEMENTS OF EQUITY
+L619: (amounts in millions) (unaudited)
+L620: 36 Weeks Ended May 10, 2026
+L621: Common Stock
+L622: Additional
+L623: Paid-in
+L624: Capital
+L625: Accumulated
+L626: Other
+L627: Comprehensive Income (Loss)
+L628: Retained
+L629: Earnings
+L630: Total
+L631: Equity
+L632: Shares (000s)
+L633: Amount
+L634: BALANCE AT AUGUST 31, 2025
+L635: 443,237
+L636: $
+L637: 2
+L638: $
+L639: 8,282
+L640: $
+L641: (
+L642: 1,770
+L643: )
+L644: $
+L645: 22,650
+L646: $
+L647: 29,164
+L648: Net income
+L649: —
+L650: —
+L651: —
+L652: —
+L653: 6,228
+L654: 6,228
+L655: Foreign-currency translation adjustment and other, net
+L656: —
+L657: —
+L658: —
+L659: 112
+L660: —
+L661: 112
+L662: Stock-based compensation
+L663: —
+L664: —
+L665: 775
+L666: —
+L667: —
+L668: 775
+L669: Release of vested RSUs, including tax effects
+L670: 915
+L671: —
+L672: (
+L673: 361
+L674: )
+L675: —
+L676: —
+L677: (
+L678: 361
+L679: )
+L680: Repurchases of common stock
+L681: (
+L682: 638
+L683: )
+L684: —
+L685: (
+L686: 13
+L687: )
+L688: —
+L689: (
+L690: 590
+L691: )
+L692: (
+L693: 603
+L694: )
+L695: Cash dividend declared
+L696: —
+L697: —
+L698: —
+L699: —
+L700: (
+L701: 1,806
+L702: )
+L703: (
+L704: 1,806
+L705: )
+L706: BALANCE AT MAY 10, 2026
+L707: 443,514
+L708: $
+L709: 2
+L710: $
+L711: 8,683
+L712: $
+L713: (
+L714: 1,658
+L715: )
+L716: $
+L717: 26,482
+L718: $
+L719: 33,509
+L720: 36 Weeks Ended May 11, 2025
+L721: Common Stock
+L722: Additional
+L723: Paid-in
+L724: Capital
+L725: Accumulated
+L726: Other
+L727: Comprehensive Income (Loss)
+L728: Retained
+L729: Earnings
+L730: Total
+L731: Equity
+L732: Shares (000s)
+L733: Amount
+L734: BALANCE AT SEPTEMBER 1, 2024
+L735: 443,126
+L736: $
+L737: 2
+L738: $
+L739: 7,829
+L740: $
+L741: (
+L742: 1,828
+L743: )
+L744: $
+L745: 17,619
+L746: $
+L747: 23,622
+L748: Net income
+L749: —
+L750: —
+L751: —
+L752: —
+L753: 5,489
+L754: 5,489
+L755: Foreign-currency translation adjustment and other, net
+L756: —
+L757: —
+L758: —
+L759: (
+L760: 87
+L761: )
+L762: —
+L763: (
+L764: 87
+L765: )
+L766: Stock-based compensation
+L767: —
+L768: —
+L769: 723
+L770: —
+L771: —
+L772: 723
+L773: Release of vested RSUs, including tax effects
+L774: 1,051
+L775: —
+L776: (
+L777: 392
+L778: )
+L779: —
+L780: —
+L781: (
+L782: 392
+L783: )
+L784: Repurchases of common stock
+L785: (
+L786: 658
+L787: )
+L788: —
+L789: (
+L790: 12
+L791: )
+L792: —
+L793: (
+L794: 611
+L795: )
+L796: (
+L797: 623
+L798: )
+L799: Cash dividend declared
+L800: —
+L801: —
+L802: —
+L803: —
+L804: (
+L805: 1,607
+L806: )
+L807: (
+L808: 1,607
+L809: )
+L810: BALANCE AT MAY 11, 2025
+L811: 443,519
+L812: $
+L813: 2
+L814: $
+L815: 8,148
+L816: $
+L817: (
+L818: 1,915
+L819: )
+L820: $
+L821: 20,890
+L822: $
+L823: 27,125
+L824: The accompanying notes are an integral part of these condensed consolidated financial statements.
+L825: 7
+L826: Table of Contents
+L827: COSTCO WHOLESALE CORPORATION
+L828: CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+L829: (amounts in millions) (unaudited)
+L830: 36 Weeks Ended
+L831: May 10,
+L832: 2026
+L833: May 11,
+L834: 2025
+L835: CASH FLOWS FROM OPERATING ACTIVITIES
+L836: Net income
+L837: $
+L838: 6,228
+L839: $
+L840: 5,489
+L841: Adjustments to reconcile net income to net cash provided by operating activities:
+L842: Depreciation and amortization
+L843: 1,791
+L844: 1,652
+L845: Non-cash lease expense
+L846: 221
+L847: 208
+L848: Stock-based compensation
+L849: 771
+L850: 720
+L851: Other non-cash operating activities, net
+L852: 36
+L853: (
+L854: 15
+L855: )
+L856: Changes in operating assets and liabilities:
+L857: Merchandise inventories
+L858: (
+L859: 1,240
+L860: )
+L861: (
+L862: 25
+L863: )
+L864: Accounts payable
+L865: 2,498
+L866: 604
+L867: Other operating assets and liabilities, net
+L868: 828
+L869: 835
+L870: Net cash provided by operating activities
+L871: 11,133
+L872: 9,468
+L873: CASH FLOWS FROM INVESTING ACTIVITIES
+L874: Additions to property and equipment
+L875: (
+L876: 4,228
+L877: )
+L878: (
+L879: 3,532
+L880: )
+L881: Purchases of short-term investments
+L882: (
+L883: 480
+L884: )
+L885: (
+L886: 573
+L887: )
+L888: Maturities of short-term investments
+L889: 544
+L890: 786
+L891: Other investing activities, net
+L892: 4
+L893: (
+L894: 24
+L895: )
+L896: Net cash used in investing activities
+L897: (
+L898: 4,160
+L899: )
+L900: (
+L901: 3,343
+L902: )
+L903: CASH FLOWS FROM FINANCING ACTIVITIES
+L904: Repayments of short-term borrowings
+L905: (
+L906: 390
+L907: )
+L908: (
+L909: 635
+L910: )
+L911: Proceeds from short-term borrowings
+L912: 459
+L913: 616
+L914: Repayments of long-term debt
+L915: (
+L916: 69
+L917: )
+L918: —
+L919: Tax withholdings on stock-based awards
+L920: (
+L921: 361
+L922: )
+L923: (
+L924: 392
+L925: )
+L926: Repurchases of common stock
+L927: (
+L928: 603
+L929: )
+L930: (
+L931: 623
+L932: )
+L933: Cash dividend payments
+L934: (
+L935: 1,154
+L936: )
+L937: (
+L938: 1,030
+L939: )
+L940: Financing lease payments and other financing activities, net
+L941: (
+L942: 57
+L943: )
+L944: (
+L945: 118
+L946: )
+L947: Net cash used in financing activities
+L948: (
+L949: 2,175
+L950: )
+L951: (
+L952: 2,182
+L953: )
+L954: EFFECT OF EXCHANGE RATE CHANGES ON CASH AND CASH EQUIVALENTS
+L955: (
+L956: 13
+L957: )
+L958: (
+L959: 13
+L960: )
+L961: Net change in cash and cash equivalents
+L962: 4,785
+L963: 3,930
+L964: CASH AND CASH EQUIVALENTS BEGINNING OF YEAR
+L965: 14,161
+L966: 9,906
+L967: CASH AND CASH EQUIVALENTS END OF PERIOD
+L968: $
+L969: 18,946
+L970: $
+L971: 13,836
+L972: SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION:
+L973: Cash paid during the first 36 weeks of the year for:
+L974: Interest
+L975: $
+L976: 78
+L977: $
+L978: 81
+L979: Income taxes, net
+L980: $
+L981: 1,735
+L982: $
+L983: 1,648
+L984: SUPPLEMENTAL DISCLOSURE OF NON-CASH ACTIVITIES:
+L985: Cash dividend declared, but not yet paid
+L986: $
+L987: 652
+L988: $
+L989: 577
+L990: Financing lease assets obtained in exchange for new or modified leases
+L991: $
+L992: 116
+L993: $
+L994: 93
+L995: Operating lease assets obtained in exchange for new or modified leases
+L996: $
+L997: 202
+L998: $
+L999: 237
+L1000: Capital expenditures included in liabilities
+L1001: $
+L1002: 218
+L1003: $
+L1004: 115
+L1005: The accompanying notes are an integral part of these condensed consolidated financial statements.
+L1006: 8
+L1007: Table of Contents
+L1008: COSTCO WHOLESALE CORPORATION
+L1009: NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+L1010: (amounts in millions, except share, per share, and warehouse count data)
+L1011: (unaudited)
+L1012: Note 1—Summary of Significant Accounting Policies
+L1013: Description of Business
+L1014: Costco Wholesale Corporation (Costco or the Company), a Washington corporation, and its subsidiaries operate membership warehouses based on the concept that offering members low prices on a limited selection of nationally-branded and private-label products in a wide range of merchandise categories will produce high sales volumes and rapid inventory turnover. At May 10, 2026, Costco operated
+L1015: 928
+L1016: warehouses worldwide:
+L1017: 637
+L1018: in the United States (U.S.) located in
+L1019: 47
+L1020: states, Washington, D.C., and Puerto Rico,
+L1021: 115
+L1022: in Canada,
+L1023: 42
+L1024: in Mexico,
+L1025: 37
+L1026: in Japan,
+L1027: 29
+L1028: in the United Kingdom (U.K.),
+L1029: 20
+L1030: in Korea,
+L1031: 15
+L1032: in Australia,
+L1033: 14
+L1034: in Taiwan,
+L1035: seven
+L1036: in China,
+L1037: five
+L1038: in Spain,
+L1039: three
+L1040: in France,
+L1041: two
+L1042: in Sweden and
+L1043: one
+L1044: each in Iceland and New Zealand. The Company operates e-commerce sites in the U.S., Canada, the U.K., Mexico, Korea, Taiwan, Japan, and Australia.
+L1045: Basis of Presentation
+L1046: The condensed consolidated financial statements include the accounts of Costco and its wholly-owned subsidiaries. All material inter-company transactions among the Company and its consolidated subsidiaries have been eliminated in consolidation.
+L1047: These unaudited condensed consolidated financial statements have been prepared in accordance with the instructions to Form 10-Q for interim financial reporting pursuant to the rules and regulations of the Securities and Exchange Commission (SEC). While these statements reflect all normal recurring adjustments that are, in the opinion of management, necessary for fair presentation of the results of the interim period, they do not include all of the information and footnotes required by U.S. generally accepted accounting principles (U.S. GAAP) for complete financial statements. Therefore, the interim condensed consolidated financial statements should be read in conjunction with the consolidated financial statements and notes included in the Company's Annual Report on Form 10-K for the fiscal year ended August 31, 2025.
+L1048: Fiscal Year End
+L1049: The Company operates on a 52/53 week fiscal year basis, with the fiscal year ending on the Sunday closest to August 31. Fiscal 2026 is a 52-week year ending on August 30, 2026. References to the third quarter of 2026 and 2025 relate to the 12-week fiscal quarters ended May 10, 2026, and May 11, 2025. References to the first thirty-six weeks of 2026 and 2025 relate to the 36 weeks ended May 10, 2026, and May 11, 2025.
+L1050: Use of Estimates
+L1051: The preparation of financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect: the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the date of the financial statements; and the reported amounts of revenues and expenses during the reporting period. These estimates and assumptions take into account historical and forward-looking factors that the Company believes are reasonable. Actual results could differ from those estimates and assumptions.
+L1052: Recent Accounting Pronouncements Not Yet Adopted By The Company
+L1053: In December 2023, the Financial Accounting Standards Board (FASB) issued ASU 2023-09, which requires public business entities on an annual basis to disclose specific categories in the income-tax rate reconciliation, provide information for reconciling items that meet a quantitative threshold, and disclose
+L1054: 9
+L1055: Table of Contents
+L1056: certain information about income taxes paid. The standard is effective for annual periods beginning after December 15, 2024, with early adoption permitted.
+L1057: In November 2024, the FASB issued ASU 2024-03, which requires disaggregated disclosures of certain costs and expenses on the income statement on an annual and interim basis. The standard is effective for fiscal years beginning after December 15, 2026, and interim periods within fiscal years beginning after December 15, 2027, with early adoption permitted.
+L1058: These standards should be applied on a prospective basis. Retrospective application is permitted. The Company is evaluating these standards.
+L1059: Note 2—Investments
+L1060: The Company's investments were as follows:
+L1061: May 10, 2026:
+L1062: Cost
+L1063: Basis
+L1064: Unrealized
+L1065: Losses, Net
+L1066: Recorded
+L1067: Basis
+L1068: Available-for-sale:
+L1069: Government and agency securities
+L1070: $
+L1071: 821
+L1072: $
+L1073: (
+L1074: 3
+L1075: )
+L1076: $
+L1077: 818
+L1078: Held-to-maturity:
+L1079: Certificates of deposit
+L1080: 232
+L1081: —
+L1082: 232
+L1083: Total short-term investments
+L1084: $
+L1085: 1,053
+L1086: $
+L1087: (
+L1088: 3
+L1089: )
+L1090: $
+L1091: 1,050
+L1092: August 31, 2025:
+L1093: Cost
+L1094: Basis
+L1095: Unrealized
+L1096: Gains, Net
+L1097: Recorded
+L1098: Basis
+L1099: Available-for-sale:
+L1100: Government and agency securities
+L1101: $
+L1102: 783
+L1103: $
+L1104: 3
+L1105: $
+L1106: 786
+L1107: Held-to-maturity:
+L1108: Certificates of deposit
+L1109: 337
+L1110: —
+L1111: 337
+L1112: Total short-term investments
+L1113: $
+L1114: 1,120
+L1115: $
+L1116: 3
+L1117: $
+L1118: 1,123
+L1119: Gross unrealized holding gains and losses on available-for-sale securities were not material for the periods ended May 10, 2026, or August 31, 2025. At those dates, there were no available-for-sale securities in a material continuous unrealized-loss position. There were no sales of available-for-sale securities during the first thirty-six weeks of 2026 or 2025.
+L1120: The maturities of available-for-sale and held-to-maturity securities at May 10, 2026, are as follows:
+L1121: Available-For-Sale
+L1122: Held-To-Maturity
+L1123: Cost Basis
+L1124: Fair Value
+L1125: Due in one year or less
+L1126: $
+L1127: 133
+L1128: $
+L1129: 134
+L1130: $
+L1131: 232
+L1132: Due after one year through five years
+L1133: 441
+L1134: 440
+L1135: —
+L1136: Due after five years
+L1137: 247
+L1138: 244
+L1139: —
+L1140: Total
+L1141: $
+L1142: 821
+L1143: $
+L1144: 818
+L1145: $
+L1146: 232
+L1147: 10
+L1148: Table of Contents
+L1149: Note 3—Fair Value Measurement
+L1150: Assets and Liabilities Measured at Fair Value on a Recurring Basis
+L1151: The table below presents information regarding the Company’s financial assets and financial liabilities that are measured at fair value on a recurring basis and indicates the level within the hierarchy reflecting the valuation techniques utilized.
+L1152: Level 2
+L1153: May 10,
+L1154: 2026
+L1155: August 31,
+L1156: 2025
+L1157: Investment in government and agency securities
+L1158: $
+L1159: 818
+L1160: $
+L1161: 786
+L1162: Forward foreign-exchange contracts, in asset position
+L1163: (1)
+L1164: 1
+L1165: 6
+L1166: Forward foreign-exchange contracts, in (liability) position
+L1167: (1)
+L1168: (
+L1169: 10
+L1170: )
+L1171: (
+L1172: 14
+L1173: )
+L1174: Total
+L1175: $
+L1176: 809
+L1177: $
+L1178: 778
+L1179: _______________
+L1180: (1)
+L1181: The asset and liability values are included in other current assets and other current liabilities, respectively, in the accompanying condensed consolidated balance sheets.
+L1182: On May 10, 2026, and August 31, 2025, the Company did not hold any Level 1 or 3 financial assets or liabilities that were measured at fair value on a recurring basis. There were no transfers between levels during the first thirty-six weeks of 2026 or 2025.
+L1183: Assets and Liabilities Measured at Fair Value on a Nonrecurring Basis
+L1184: Assets and liabilities recognized and disclosed at fair value on a nonrecurring basis include items such as financial assets measured at amortized cost and long-lived nonfinancial assets. These assets are measured at fair value if determined to be impaired. There were no fair value adjustments to these items during the first thirty-six weeks of 2026 or 2025.
+L1185: Note 4—Debt
+L1186: The carrying value of the Company’s long-term debt consisted of the following:
+L1187: May 10,
+L1188: 2026
+L1189: August 31,
+L1190: 2025
+L1191: 3.000
+L1192: % Senior Notes due May 2027
+L1193: $
+L1194: 1,000
+L1195: $
+L1196: 1,000
+L1197: 1.375
+L1198: % Senior Notes due June 2027
+L1199: 1,250
+L1200: 1,250
+L1201: 1.600
+L1202: % Senior Notes due April 2030
+L1203: 1,750
+L1204: 1,750
+L1205: 1.750
+L1206: % Senior Notes due April 2032
+L1207: 1,000
+L1208: 1,000
+L1209: Other long-term debt
+L1210: 684
+L1211: 805
+L1212: Total long-term debt
+L1213: 5,684
+L1214: 5,805
+L1215: Less unamortized debt discounts and issuance costs
+L1216: 14
+L1217: 17
+L1218: Less current portion
+L1219: (1)
+L1220: —
+L1221: 75
+L1222: Long-term debt, excluding current portion
+L1223: $
+L1224: 5,670
+L1225: $
+L1226: 5,713
+L1227: _______________
+L1228: (1)
+L1229: Net of unamortized debt discounts and issuance costs and included in other current liabilities in the accompanying condensed consolidated balance sheets
+L1230: .
+L1231: The fair value of the Senior Notes is estimated using Level 2 inputs. Other long-term debt consists of Guaranteed Senior Notes issued by the Company's Japan subsidiary, valued using Level 3 inputs. In March 2026, the Company's Japan subsidiary repaid $
+L1232: 69
+L1233: of its Guaranteed Senior Notes. The fair value of the Company's long-term debt, including the current portion, was approximately $
+L1234: 5,259
+L1235: and $
+L1236: 5,370
+L1237: at May 10, 2026, and August 31, 2025.
+L1238: 11
+L1239: Table of Contents
+L1240: Note 5—Equity
+L1241: Dividends
+L1242: A quarterly cash dividend of $
+L1243: 1.47
+L1244: per share was declared on April 15, 2026, and paid on May 15, 2026. The dividend was $
+L1245: 1.30
+L1246: per share in the third quarter of 2025.
+L1247: Stock Repurchase Programs
+L1248: The Company's stock repurchase program is conducted under a $
+L1249: 4,000
+L1250: authorization by the Board of Directors, which expires in January 2027. At May 10, 2026, the remaining amount available under the program was $
+L1251: 1,359
+L1252: .
+L1253: The following table summarizes the repurchase activity:
+L1254: Shares Repurchased (000s)
+L1255: Average Price per Share
+L1256: Total Cost
+L1257: Third quarter of 2026
+L1258: 184
+L1259: $
+L1260: 997.47
+L1261: $
+L1262: 183
+L1263: First thirty-six weeks of 2026
+L1264: 638
+L1265: $
+L1266: 945.46
+L1267: $
+L1268: 603
+L1269: Third quarter of 2025
+L1270: 215
+L1271: $
+L1272: 976.71
+L1273: $
+L1274: 210
+L1275: First thirty-six weeks of 2025
+L1276: 658
+L1277: $
+L1278: 946.64
+L1279: $
+L1280: 623
+L1281: These amounts may differ from the accompanying condensed consolidated statements of cash flows due to changes in unsettled stock repurchases at the end of each quarter. Purchases are made from time to time, as conditions warrant, potentially including the open market, block purchases and pursuant to plans under SEC Rule 10b5-1.
+L1282: Note 6—Stock-Based Compensation
+L1283: The 2019 Incentive Plan authorizes the issuance of up to
+L1284: 15,885,000
+L1285: RSUs. The Company issues new shares of common stock upon vesting and settlement of RSUs. Shares for vested RSUs are generally delivered to participants annually, net of shares withheld for taxes.
+L1286: Summary of Restricted Stock Unit Activity
+L1287: At May 10, 2026,
+L1288: 5,252,000
+L1289: shares were available to be granted as RSUs, and the following awards were outstanding:
+L1290: •
+L1291: 1,908,000
+L1292: time-based RSUs, which vest upon continued employment over specified periods. Some of these RSUs accelerate upon achievement of a long-service term;
+L1293: •
+L1294: 60,000
+L1295: performance-based RSUs granted to executive officers, for which the performance targets have been met. The awards vest upon continued employment over specified periods of time and upon achievement of a long-service term; and
+L1296: •
+L1297: 67,000
+L1298: performance-based RSUs granted to executive officers, subject to achievement of performance targets for 2026, as determined by the Compensation Committee of the Board of Directors after the end of the fiscal year. These awards are included in the table below and in the amount of unrecognized compensation cost. The Company recognized compensation expense for these awards in the third quarter of 2026, as it is currently deemed probable that the targets will be achieved.
+L1299: 12
+L1300: Table of Contents
+L1301: The following table summarizes RSU transactions during the first thirty-six weeks of 2026:
+L1302: Number of
+L1303: Units (in 000s)
+L1304: Weighted-Average
+L1305: Grant Date Fair Value
+L1306: Outstanding at August 31, 2025
+L1307: 2,308
+L1308: $
+L1309: 597.00
+L1310: Granted
+L1311: 1,088
+L1312: 933.56
+L1313: Vested and delivered
+L1314: (
+L1315: 1,296
+L1316: )
+L1317: 669.79
+L1318: Forfeited
+L1319: (
+L1320: 65
+L1321: )
+L1322: 694.61
+L1323: Outstanding at May 10, 2026
+L1324: 2,035
+L1325: $
+L1326: 727.45
+L1327: The remaining unrecognized compensation cost related to RSUs unvested at May 10, 2026, was $
+L1328: 1,092
+L1329: , and the weighted-average period over which this cost will be recognized is
+L1330: 1.6
+L1331: years.
+L1332: Summary of Stock-Based Compensation
+L1333: The following table summarizes stock-based compensation expense and the related tax benefits:
+L1334: 12 Weeks Ended
+L1335: 36 Weeks Ended
+L1336: May 10,
+L1337: 2026
+L1338: May 11,
+L1339: 2025
+L1340: May 10,
+L1341: 2026
+L1342: May 11,
+L1343: 2025
+L1344: Stock-based compensation expense
+L1345: $
+L1346: 119
+L1347: $
+L1348: 106
+L1349: $
+L1350: 771
+L1351: $
+L1352: 720
+L1353: Less recognized income tax benefits
+L1354: 27
+L1355: 23
+L1356: 178
+L1357: 152
+L1358: Stock-based compensation expense, net
+L1359: $
+L1360: 92
+L1361: $
+L1362: 83
+L1363: $
+L1364: 593
+L1365: $
+L1366: 568
+L1367: Note 7—Net Income per Common and Common Equivalent Share
+L1368: The following table shows the amounts used in computing net income per share and the weighted average number of shares of basic and of potentially dilutive common shares outstanding (shares in 000s):
+L1369: 12 Weeks Ended
+L1370: 36 Weeks Ended
+L1371: May 10,
+L1372: 2026
+L1373: May 11,
+L1374: 2025
+L1375: May 10,
+L1376: 2026
+L1377: May 11,
+L1378: 2025
+L1379: Net income
+L1380: $
+L1381: 2,192
+L1382: $
+L1383: 1,903
+L1384: $
+L1385: 6,228
+L1386: $
+L1387: 5,489
+L1388: Weighted average basic shares
+L1389: 443,923
+L1390: 443,958
+L1391: 443,943
+L1392: 443,976
+L1393: RSUs
+L1394: 507
+L1395: 804
+L1396: 512
+L1397: 870
+L1398: Weighted average diluted shares
+L1399: 444,430
+L1400: 444,762
+L1401: 444,455
+L1402: 444,846
+L1403: Basic earnings per share is calculated by dividing net income by the weighted average number of shares of common stock outstanding during the period. Diluted earnings per share is calculated based on the dilutive effect of RSUs using the treasury stock method.
+L1404: Note 8—Commitments and Contingencies
+L1405: Legal Proceedings
+L1406: The Company is involved in many claims, proceedings and litigations arising from its business and property ownership. In accordance with accounting guidance, the Company establishes an accrual for legal proceedings if and when those matters present loss contingencies that are both probable and reasonably estimable. There may be actual losses in excess of amounts accrued. The Company monitors those matters for developments that would affect the likelihood of a loss (considering where applicable indemnification arrangements concerning suppliers and insurers) and the accrued amount, if any, thereof, and adjusts the amount as appropriate. The Company has recorded an immaterial accrual with respect to
+L1407: 13
+L1408: Table of Contents
+L1409: some matters described below, in addition to other immaterial accruals for matters not described below. If the loss contingency at issue is not both probable and reasonably estimable, the Company does not establish an accrual, but monitors for developments that make the contingency both probable and reasonably estimable. In each case, there is a reasonable possibility that a loss may be incurred, including a loss in excess of the applicable accrual. For matters where no accrual has been recorded, the possible loss or range of loss (including any loss in excess of the accrual) cannot, in the Company's view, be reasonably estimated because, among other things: the remedies or penalties sought are indeterminate or unspecified; the legal and/or factual theories are not well developed; and/or the matters involve complex or novel legal theories or a large number of parties.
+L1410: In November 2023, a former employee filed a class action against the Company alleging claims under California law for failure to pay minimum wage, failure to pay overtime, failure to provide meal and rest breaks, failure to provide accurate wage statements, failure to reimburse expenses, failure to pay wages when due, and failure to pay sick pay.
+L1411: Martin Reyes v. Costco Wholesale Corporation
+L1412: , Sacramento County Superior Court (No. 23cv011351), removed to federal court, No. 2:24-cv-00300 (E.D. Cal.). A second amended complaint was filed, which the Company has moved to dismiss. In January 2024, the same plaintiff filed a related Private Attorneys General Act (PAGA) representative action, seeking civil penalties and asserting the same alleged underlying Labor Code violations and an additional suitable seating claim. In May 2024, the plaintiff filed an amended PAGA complaint; the Company has denied the material allegations of the complaint and filed a motion to stay the action. The motion was granted on December 18, 2024.
+L1413: In August 2024, an employee filed an action under PAGA against the Company, alleging claims for penalties for various alleged violations of the
+L1414: California Labor Code. Nader v. Costco
+L1415: (No. CV-24-006198; Stanislaus County Superior Court). An amended complaint was filed in November 2024. In February 2025 the court granted the Company’s motion to strike portions of the complaint. The plaintiff filed a further amended complaint; the Company's motion to strike a portion of this complaint was granted on May 13, 2025. The Company's motion to stay the action was granted on November 13, 2025.
+L1416: In January 2026, a class action on behalf of Washington employees was filed against the Company alleging failure to provide meal periods and rest breaks and to compensate for violations, wage theft, and failure to furnish accurate wage statements. The complaint seeks compensatory and exemplary damages, interest, and attorneys' fees.
+L1417: Madera v. Costco Wholesale Corp.
+L1418: (No. 26-2-02879-6, King County Superior Court). A second class action was filed in March 2026 alleging failure to provide meal periods and to compensate for violations, seeking similar relief.
+L1419: Howell v. Costco Wholesale Corp.
+L1420: (No. 26-2-09459-5; King County Superior Court). The Company has denied the material allegations of the complaints.
+L1421: Beginning in December 2017, the United States Judicial Panel on Multidistrict Litigation consolidated numerous cases concerning the impacts of opioid abuses filed against various defendants by counties, cities, hospitals, Native American tribes, third-party payors, and others. In re National Prescription Opiate Litigation (MDL No. 2804) (N.D. Ohio). Cases filed against the Company by counties and cities in Michigan, New Jersey, Oregon, Virginia and South Carolina, a hospital in Texas, and class actions and individual actions filed on behalf of individuals seeking to recover alleged increased insurance costs associated with opioid abuse in 43 states and American Samoa have been resolved or dismissed. A claim by a third-party payor in Ohio and actions filed on behalf of infants born with opioid-related medical conditions in 40 states remain in the MDL. A claim against the Company filed in federal court outside the MDL by one county in Georgia is pending, and claims filed by certain cities and counties in New York are pending in state court, as are claims by certain county district attorneys in Pennsylvania. Claims against the Company in state courts in New Jersey, Oklahoma, Utah, and Arizona have been dismissed. Claims against the Company in federal court in Georgia and Florida have been dismissed. The Company is defending all of the pending matters remaining.
+L1422: Between September 25 and October 31, 2023, five class action suits were filed against the Company alleging privacy law violations stemming from pixel trackers on Costco.com:
+L1423: Birdwell v. Costco Wholesale
+L1424: 14
+L1425: Table of Contents
+L1426: Corp
+L1427: ., No. C23-02416, Contra Costa County Superior Court; and
+L1428: Scott v. Costco Wholesale Corp.
+L1429: , No. 2:23-cv-08808 (C.D. Cal.), now consolidated with
+L1430: R.S. v. Costco Wholesale Corp.
+L1431: , No. 2:23-cv-01628 (W.D. Wash.);
+L1432: Groves, et ano., v. Costco Wholesale Corp.
+L1433: , No. 2:23-cv-01662 (W.D. Wash.), and
+L1434: Castillo v. Costco Wholesale Corp.
+L1435: , under No. 2:34-cv-01548 (W.D. Wash.). The
+L1436: Castillo
+L1437: plaintiffs filed a consolidated complaint on January 26, 2024, which seeks damages, equitable relief and attorneys’ fees under various statutes, including the Washington Consumer Protection Act, Washington Privacy Act, Washington Uniform Health Care Information Act, Electronic Communications Privacy Act, California Invasion of Privacy Act, and California Confidentiality of Medical Information Act. The consolidated complaint also alleges breach of implied contract, invasion of privacy, conversion, and unjust enrichment. The Company filed a motion to dismiss the
+L1438: Castillo
+L1439: complaint on March 11, 2024. In November 2024 the court denied the motion to dismiss in substantial part. On May 16, 2024, the parties stipulated to stay
+L1440: Birdwell
+L1441: pending resolution of
+L1442: Castillo
+L1443: . On January 2, and August 22, 2024, the Company received related civil investigative demands from the Washington Attorney General's Office. On January 3, 2024, the Company received a related pre-litigation letter from the Los Angeles Office of the County Counsel. The Company is in the process of responding to both agencies. The
+L1444: Birdwell
+L1445: case was dismissed with prejudice in March 2026.
+L1446: In October and November 2025, two class actions were filed against the Company alleging violations of consumer protection and other laws arising from the Company’s sale of Kirkland Signature tequila products in the United States:
+L1447: Glazer v. Costco Wholesale Corp.
+L1448: , Case No. 1:25-cv-25057 (S.D. Fla.); and
+L1449: Salisbury, et al. v. Costco Wholesale Corp.
+L1450: , Case No. 2:25-cv-02277 (W.D. Wash.). Plaintiffs allege that the Company’s Kirkland Signature tequilas are labeled “100% de Agave” but contain alcohol derived from non-agave sugars. They seek damages, statutory penalties, punitive and treble damages, and disgorgement. The
+L1451: Glazer
+L1452: action was subsequently dismissed without prejudice. An amended complaint was filed in the
+L1453: Salisbury
+L1454: case on March 9, 2026, adding
+L1455: Glazer
+L1456: as an additional named plaintiff. The Company filed a motion to dismiss
+L1457: Salisbury
+L1458: in April 2026.
+L1459: In March 2026, four class actions were filed against the Company seeking a refund of tariffs paid by the Company under the International Emergency Economic Powers Act (“IEEPA”) that were passed on to members through higher prices. The complaints allege violations of state consumer protection laws and equitable doctrines:
+L1460: Stockov, et al. v. Costco Wholesale Corp.,
+L1461: Case No. 26-cv-02734 (N.D. Illinois);
+L1462: Gower, et al. v. Costco Wholesale Corp.,
+L1463: Case No. 26-2-08898-5SEA (King County Superior Court);
+L1464: Ortiz, et al. v. Costco Wholesale Corp.,
+L1465: Case No. 3:26-cv-01164-CVR (D.P.R.); and
+L1466: Briggs, et al. v. Costco Wholesale Corp.,
+L1467: Case No. 2:26-cv-01064 (W.D. Wash.). The Company has filed motions to dismiss in
+L1468: Stockov
+L1469: and
+L1470: Gower.
+L1471: The Company does not believe that any pending claim, proceeding or litigation, either alone or in the aggregate, will have a material adverse effect on the Company’s financial position, results of operations or cash flows; it is possible that an unfavorable outcome of some or all of the matters, however unlikely, could result in a charge that might be material to the results of an individual fiscal quarter or year.
+L1472: 15
+L1473: Table of Contents
+L1474: Note 9—Segment Reporting
+L1475: The Company is principally engaged in the operation of membership warehouses through wholly owned subsidiaries in the U.S., Canada, Mexico, Japan, the U.K., Korea, Australia, Taiwan, China, Spain, France, Sweden, Iceland and New Zealand. Reportable segments are largely based on management’s organization of the operating segments for operational decisions and assessments of financial performance, which considers geographic locations. The material accounting policies of the segments are as described in the notes to the consolidated financial statements included in the Company's Annual Report filed on Form 10-K for the fiscal year ended August 31, 2025, and
+L1476: Note 1
+L1477: above. Inter-segment net sales and expenses, including royalties, have been eliminated in computing total revenue and operating income.
+L1478: The chief operating decision maker (CODM) is the Company's President and Chief Executive Officer. The CODM uses the metrics outlined in the table below, along with internal management reports, to evaluate performance, monitor actual results versus budget and prior year results, and make strategic and operational resource allocation decisions.
+L1479: The following table provides the revenue, significant expenses, and operating income for the Company's reportable segments:
+L1480: 12 Weeks Ended
+L1481: 36 Weeks Ended
+L1482: May 10,
+L1483: 2026
+L1484: May 11,
+L1485: 2025
+L1486: May 10,
+L1487: 2026
+L1488: May 11,
+L1489: 2025
+L1490: United States
+L1491: Total revenue
+L1492: $
+L1493: 51,434
+L1494: $
+L1495: 46,318
+L1496: $
+L1497: 149,934
+L1498: $
+L1499: 137,819
+L1500: Merchandise costs
+L1501: 44,857
+L1502: 40,239
+L1503: 130,499
+L1504: 119,922
+L1505: Selling, general and administrative expenses
+L1506: 4,704
+L1507: 4,366
+L1508: 14,311
+L1509: 13,171
+L1510: Operating income
+L1511: $
+L1512: 1,873
+L1513: $
+L1514: 1,713
+L1515: $
+L1516: 5,124
+L1517: $
+L1518: 4,726
+L1519: Canada
+L1520: Total revenue
+L1521: $
+L1522: 9,410
+L1523: $
+L1524: 8,321
+L1525: $
+L1526: 27,774
+L1527: $
+L1528: 25,021
+L1529: Merchandise costs
+L1530: 8,171
+L1531: 7,234
+L1532: 24,156
+L1533: 21,828
+L1534: Selling, general and administrative expenses
+L1535: 733
+L1536: 637
+L1537: 2,202
+L1538: 1,978
+L1539: Operating income
+L1540: $
+L1541: 506
+L1542: $
+L1543: 450
+L1544: $
+L1545: 1,416
+L1546: $
+L1547: 1,215
+L1548: Other International
+L1549: Total revenue
+L1550: $
+L1551: 9,683
+L1552: $
+L1553: 8,566
+L1554: $
+L1555: 29,723
+L1556: $
+L1557: 26,239
+L1558: Merchandise costs
+L1559: 8,491
+L1560: 7,523
+L1561: 26,093
+L1562: 23,099
+L1563: Selling, general and administrative expenses
+L1564: 756
+L1565: 676
+L1566: 2,286
+L1567: 2,039
+L1568: Operating income
+L1569: $
+L1570: 436
+L1571: $
+L1572: 367
+L1573: $
+L1574: 1,344
+L1575: $
+L1576: 1,101
+L1577: Total
+L1578: Total revenue
+L1579: $
+L1580: 70,527
+L1581: $
+L1582: 63,205
+L1583: $
+L1584: 207,431
+L1585: $
+L1586: 189,079
+L1587: Merchandise costs
+L1588: 61,519
+L1589: 54,996
+L1590: 180,748
+L1591: 164,849
+L1592: Selling, general and administrative expenses
+L1593: 6,193
+L1594: 5,679
+L1595: 18,799
+L1596: 17,188
+L1597: Operating income
+L1598: 2,815
+L1599: 2,530
+L1600: 7,884
+L1601: 7,042
+L1602: Other income
+L1603: (1)
+L1604: 123
+L1605: 50
+L1606: 358
+L1607: 266
+L1608: Income before income taxes
+L1609: $
+L1610: 2,938
+L1611: $
+L1612: 2,580
+L1613: $
+L1614: 8,242
+L1615: $
+L1616: 7,308
+L1617: _______________
+L1618: (1)
+L1619: Other income consists of interest expense and interest income and other, net.
+L1620: 16
+L1621: Table of Contents
+L1622: The following table provides depreciation and amortization and additions to property and equipment for the Company's reportable segments:
+L1623: 12 Weeks Ended
+L1624: 36 Weeks Ended
+L1625: May 10,
+L1626: 2026
+L1627: May 11,
+L1628: 2025
+L1629: May 10,
+L1630: 2026
+L1631: May 11,
+L1632: 2025
+L1633: United States
+L1634: Depreciation and amortization
+L1635: $
+L1636: 460
+L1637: $
+L1638: 432
+L1639: $
+L1640: 1,388
+L1641: $
+L1642: 1,295
+L1643: Additions to property and equipment
+L1644: 1,143
+L1645: 846
+L1646: 3,335
+L1647: 2,698
+L1648: Canada
+L1649: Depreciation and amortization
+L1650: $
+L1651: 52
+L1652: $
+L1653: 44
+L1654: $
+L1655: 148
+L1656: $
+L1657: 132
+L1658: Additions to property and equipment
+L1659: 113
+L1660: 99
+L1661: 455
+L1662: 352
+L1663: Other International
+L1664: Depreciation and amortization
+L1665: $
+L1666: 85
+L1667: $
+L1668: 76
+L1669: $
+L1670: 255
+L1671: $
+L1672: 225
+L1673: Additions to property and equipment
+L1674: 157
+L1675: 186
+L1676: 438
+L1677: 482
+L1678: Total
+L1679: Depreciation and amortization
+L1680: $
+L1681: 597
+L1682: $
+L1683: 552
+L1684: $
+L1685: 1,791
+L1686: $
+L1687: 1,652
+L1688: Additions to property and equipment
+L1689: 1,413
+L1690: 1,131
+L1691: 4,228
+L1692: 3,532
+L1693: The following table provides property and equipment, net and total assets for the Company's reportable segments:
+L1694: May 10,
+L1695: 2026
+L1696: August 31,
+L1697: 2025
+L1698: United States
+L1699: Property and equipment, net
+L1700: $
+L1701: 24,644
+L1702: $
+L1703: 22,790
+L1704: Total assets
+L1705: 62,980
+L1706: 54,862
+L1707: Canada
+L1708: Property and equipment, net
+L1709: $
+L1710: 3,258
+L1711: $
+L1712: 2,930
+L1713: Total assets
+L1714: 7,925
+L1715: 7,304
+L1716: Other International
+L1717: Property and equipment, net
+L1718: $
+L1719: 6,391
+L1720: $
+L1721: 6,189
+L1722: Total assets
+L1723: 15,525
+L1724: 14,933
+L1725: Total
+L1726: Property and equipment, net
+L1727: $
+L1728: 34,293
+L1729: $
+L1730: 31,909
+L1731: Total assets
+L1732: 86,430
+L1733: 77,099
+L1734: Disaggregated Revenue
+L1735: The following table summarizes net sales by merchandise category; sales from e-commerce sites and business centers have been allocated to the applicable merchandise categories:
+L1736: 12 Weeks Ended
+L1737: 36 Weeks Ended
+L1738: May 10,
+L1739: 2026
+L1740: May 11,
+L1741: 2025
+L1742: May 10,
+L1743: 2026
+L1744: May 11,
+L1745: 2025
+L1746: Foods and Sundries
+L1747: $
+L1748: 26,533
+L1749: $
+L1750: 25,149
+L1751: $
+L1752: 80,625
+L1753: $
+L1754: 75,323
+L1755: Non-Foods
+L1756: 17,529
+L1757: 16,080
+L1758: 54,122
+L1759: 49,777
+L1760: Fresh Foods
+L1761: 9,673
+L1762: 8,785
+L1763: 28,576
+L1764: 25,839
+L1765: Warehouse Ancillary and Other Businesses
+L1766: 15,419
+L1767: 11,951
+L1768: 40,051
+L1769: 34,541
+L1770: Total net sales
+L1771: $
+L1772: 69,154
+L1773: $
+L1774: 61,965
+L1775: $
+L1776: 203,374
+L1777: $
+L1778: 185,480
+L1779: 17
+L1780: Table of Contents
+L1781: Item 2—Management’s Discussion and Analysis of Financial Condition and Results of Operations
+L1782: (amounts in millions, except per share, share, percentages and warehouse count data)
+L1783: FORWARD-LOOKING STATEMENTS
+L1784: Certain statements contained in this document constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. For these purposes, forward-looking statements are statements that address activities, events, conditions or developments that the Company expects or anticipates may occur in the future and may relate to such matters as net sales growth, changes in comparable sales, cannibalization of existing locations by new openings, price or fee changes, earnings performance, earnings per share, stock-based compensation expense, warehouse openings and closures, capital spending, the effect of adopting certain accounting standards, future financial reporting, financing, margins, return on invested capital, investments in technology, strategic direction, expense controls, membership fee changes, signups, and renewal rates, shopping frequency, litigation, attainment of sustainability goals, and the demand for our products and services. In some cases, forward-looking statements can be identified because they contain words such as “anticipate,” “believe,” “continue,” “could,” “estimate,” “expect,” “intend,” “likely,” “may,” “might,” “plan,” “potential,” “predict,” “project,” “seek,” “should,” “target,” “will,” “would,” or similar expressions and the negatives of those terms. Such forward-looking statements involve risks and uncertainties that may cause actual events, results or performance to differ materially from those indicated by such statements. These risks and uncertainties include, but are not limited to, domestic and international economic conditions, including exchange rates, inflation or deflation, the effects of competition and regulation, uncertainties in the financial markets, consumer and small business spending patterns and debt levels, breaches of security or privacy of member or business information, conditions affecting the acquisition, development, ownership or use of real estate, capital spending, actions of vendors, rising costs associated with employees (generally including health-care costs and wages), workforce interruptions, energy and certain commodities, geopolitical conditions (including tariffs and global conflicts), the ability to maintain effective internal control over financial reporting, regulatory and other impacts related to environmental and social matters, public-health related factors, and other risks identified from time to time in the Company's public statements and reports filed with the Securities and Exchange Commission. Forward-looking statements speak only as of the date they are made, and the Company does not undertake to update these statements, except as required by law.
+L1785: OVERVIEW
+L1786: Management's Discussion and Analysis of Financial Condition and Results of Operations (MD&A) is intended to promote understanding of the results of operations and financial condition. MD&A is provided as a supplement to and should be read in conjunction with our condensed consolidated financial statements and the accompanying Notes to Financial Statements (Part I, Item 1 of this Form 10-Q), as well as our consolidated financial statements, the accompanying Notes to Financial Statements, and the related MD&A in our fiscal year 2025 Form 10-K, which was filed with the Securities and Exchange Commission on October 8, 2025.
+L1787: We operate membership warehouses and e-commerce sites based on the concept that offering low prices on a limited selection of nationally-branded and private-label products in a wide range of categories will produce high sales volumes and rapid inventory turnover. When combined with the operating efficiencies achieved by volume purchasing, efficient distribution and reduced handling of merchandise in no-frills, self-service warehouse facilities, these volumes and turnover enable us to operate profitably at significantly lower gross margins (net sales less merchandise costs) than most other retailers. We often sell inventory before we are required to pay for it, even while taking advantage of early payment discounts.
+L1788: We believe that the most important driver of our profitability is increasing net sales, particularly comparable sales. Net sales includes our core merchandise categories (foods and sundries, non-foods, and fresh foods), warehouse ancillary (gasoline, pharmacy, optical, food court, hearing aids, and tire
+L1789: 18
+L1790: Table of Contents
+L1791: installation) and other businesses (e-commerce, business centers, travel, and other). E-commerce and business center sales are allocated to the appropriate merchandise categories in the Net Sales discussion. The 2% reward associated with Executive membership reduces net sales and is allocated to the category in which the reward is generated (core merchandise categories, warehouse ancillary, and other businesses). Comparable sales is defined as net sales from warehouses and digitally-enabled businesses operating for more than one year, including remodels, relocations and expansions. Starting this year, we changed our e-commerce comparable sales metric to digitally-enabled comparable sales. This metric represents sales delivered to members that are initiated through a digital device, whether fulfilled through a warehouse or a distribution center, as well as Costco Travel. The comparable sales measures are intended as supplemental information and are not a substitute for net sales presented in accordance with U.S. GAAP and should be reviewed in conjunction with results reported in accordance with U.S. GAAP. Comparable sales growth is achieved through increasing shopping frequency from new and existing members and the amount they spend on each visit (average ticket). Sales comparisons can also be particularly influenced by certain factors that are beyond our control: fluctuations in currency exchange rates (with respect to our international operations) and inflation or deflation in the cost of gasoline and associated competitive conditions. The higher our comparable sales exclusive of these items, the more we can leverage our selling, general and administrative (SG&A) expenses, reducing them as a percentage of sales and enhancing profitability. Generating comparable sales growth is foremost a question of making available the right merchandise at the right prices, a skill that we believe we have repeatedly demonstrated over the long-term. Another substantial factor in net sales growth is the health of the economies in which we do business, including the effects of inflation or deflation, especially the United States. Net sales growth and gross margins are also impacted by competition, which is vigorous and widespread, across a wide range of global, national and regional wholesalers and retailers, including those with e-commerce operations. While we cannot control or reliably predict general economic health or changes in competition, we believe that we have been successful historically in adapting our business to these changes, such as through adjustments to our pricing and merchandise mix, including increasing the penetration of our private-label items, and through online offerings.
+L1792: Our philosophy is to provide our members with quality goods and services at competitive prices. We do not focus in the short-term on maximizing prices charged, but instead seek to maintain what we believe is a perception among our members of our “pricing authority” – consistently providing the most competitive values. Our net sales and gross margin are influenced in part by our merchandising and pricing strategies in response to cost increases. Those strategies can include, but are not limited to, working with our suppliers to share in absorbing cost increases, earlier-than-usual purchasing and in greater volumes, sourcing in the countries and regions where items are sold, as well as passing cost increases on to our members. Our investments in merchandise pricing may include reducing prices on merchandise to drive sales or meet competition and holding prices steady despite cost increases instead of passing the increases on to our members, negatively impacting gross margin and gross margin as a percentage of net sales (gross margin percentage) in the near term. Our digitally-enabled business, domestically and internationally, has a lower gross-margin percentage than our warehouse operations.
+L1793: Government actions in various countries relating to tariffs affect the costs of some of our merchandise. The degree of our exposure is dependent on (among other things) the type of goods, rates imposed, and timing of the tariffs. Higher tariffs are more likely to adversely impact rather than improve our results.
+L1794: We believe our gasoline business enhances traffic in our warehouses; it generally has a lower gross margin percentage and lower SG&A expense relative to our non-gasoline businesses. A higher penetration of gasoline sales will generally lower our gross margin percentage. Generally, rising gasoline prices benefit net sales growth which, given the higher sales base, negatively impacts our gross margin percentage but decreases our SG&A expenses as a percentage of net sales. A decline in gasoline prices has the inverse effect.
+L1795: We also achieve net sales growth by opening new warehouses. As our warehouse base grows and available and desirable sites become more difficult to secure, square footage growth becomes a comparatively less substantial component of growth. Negative aspects of such growth include lower initial
+L1796: 19
+L1797: Table of Contents
+L1798: operating profitability relative to existing warehouses and cannibalization of sales at existing warehouses when openings occur in existing markets. Our rate of square footage growth is generally higher in many of our foreign markets, due to the smaller base in those markets, and we expect that to continue.
+L1799: The membership format is integral to our business and profitability. This format is designed to reinforce member loyalty and provide continuing fee revenue. The extent to which we achieve growth in our membership base, increase the penetration of Executive memberships, and sustain high renewal rates materially influences our profitability. Our renewal rate, which excludes affiliates of Business members, is a trailing calculation that captures renewals during the period seven to eighteen months prior to the reporting date. Our paid-membership growth rate may be adversely impacted when warehouse openings occur in existing markets as compared to new markets. Our worldwide renewal rate is adversely impacted by membership growth in newer international markets and a higher penetration of memberships sold online, including through digital membership promotions, which renew at a slightly lower rate on average.
+L1800: Our financial performance depends heavily on controlling costs. While we believe that we have achieved successes in this area, some significant costs are partially outside our control, particularly health care and utility expenses. With respect to the compensation of our employees, our philosophy is not to seek to minimize their wages and benefits. Rather, we believe that achieving our longer-term objectives of reducing employee turnover, increasing productivity and enhancing employee satisfaction requires maintaining compensation levels that are better than the industry average for much of our workforce. This may cause us, for example, to absorb costs that other employers might seek to pass through to their workforces. Because our business operates on very low margins, modest changes in various items in the consolidated statements of income, particularly merchandise costs and SG&A expenses, can have substantial impacts on net income.
+L1801: Our operating models are generally the same across our U.S., Canadian, and Other International operating segments (see
+L1802: Note 9
+L1803: to the condensed consolidated financial statements included in Part I, Item 1, of this Report). Certain operations in our Other International segment have relatively higher rates of square footage growth, lower wage and benefit costs as a percentage of sales, less or no direct membership warehouse competition, or lack e-commerce or business delivery.
+L1804: In discussions of our consolidated operating results, we refer to the impact of changes in foreign currencies relative to the U.S. dollar, which are differences between the foreign-exchange rates we use to convert the financial results of our international operations from local currencies into U.S. dollars. This impact is calculated based on the difference between the current and prior period's exchange rates. The impact of changes in gasoline prices on net sales is calculated based on the difference between the current and prior period's average price per gallon. Results expressed excluding the impacts of foreign-exchange and gasoline prices are intended as supplemental information and are not a substitute for net sales presented in accordance with U.S. GAAP and should be reviewed in conjunction with results reported in accordance with U.S. GAAP.
+L1805: Our fiscal year ends on the Sunday closest to August 31. References to the third quarter of 2026 and 2025 relate to the 12-week fiscal quarters ended May 10, 2026, and May 11, 2025. References to the first thirty-six weeks of 2026 and 2025 relate to the 36 weeks ended May 10, 2026, and May 11, 2025. Certain percentages presented are calculated using actual results prior to rounding.
+L1806: Highlights for the third quarter of 2026 versus 2025 include:
+L1807: •
+L1808: We opened four new warehouses: three in the U.S. and one in Canada, compared to nine new warehouses, including one relocation;
+L1809: •
+L1810: Net sales increased 12% to $69,154, driven by an increase in comparable sales and sales at 23 net new warehouses opened since the end of the third quarter of 2025;
+L1811: •
+L1812: Higher gasoline prices positively impacted net sales by $1,367, or 221 basis points, and changes in foreign currencies positively impacted net sales by approximately $643, or 104 basis points;
+L1813: 20
+L1814: Table of Contents
+L1815: •
+L1816: Membership fee revenue increased 11% to $1,373, primarily driven by new member sign-ups, membership fee increases, and upgrades to Executive Membership;
+L1817: •
+L1818: Gross margin as a percentage of net sales and excluding the impact of gasoline price inflation increased one basis point;
+L1819: •
+L1820: SG&A expenses as a percentage of net sales and excluding the impact of gasoline price inflation decreased two basis points;
+L1821: •
+L1822: The effective tax rate was 25.4%, compared to 26.2%;
+L1823: •
+L1824: Net income increased to $2,192, $4.93 per diluted share, compared to $1,903, $4.28 per diluted share; and
+L1825: •
+L1826: A quarterly cash dividend of $1.47 per share was declared on April 15, 2026, and paid on May 15, 2026.
+L1827: RESULTS OF OPERATIONS
+L1828: Net Sales
+L1829: 12 Weeks Ended
+L1830: 36 Weeks Ended
+L1831: May 10,
+L1832: 2026
+L1833: May 11,
+L1834: 2025
+L1835: May 10,
+L1836: 2026
+L1837: May 11,
+L1838: 2025
+L1839: Net Sales
+L1840: $
+L1841: 69,154
+L1842: $
+L1843: 61,965
+L1844: $
+L1845: 203,374
+L1846: $
+L1847: 185,480
+L1848: Increases in net sales:
+L1849: U.S.
+L1850: 11
+L1851: %
+L1852: 9
+L1853: %
+L1854: 9
+L1855: %
+L1856: 9
+L1857: %
+L1858: Canada
+L1859: 13
+L1860: %
+L1861: 4
+L1862: %
+L1863: 11
+L1864: %
+L1865: 5
+L1866: %
+L1867: Other International
+L1868: 13
+L1869: %
+L1870: 6
+L1871: %
+L1872: 13
+L1873: %
+L1874: 6
+L1875: %
+L1876: Total Company
+L1877: 12
+L1878: %
+L1879: 8
+L1880: %
+L1881: 10
+L1882: %
+L1883: 8
+L1884: %
+L1885: Increases in comparable sales:
+L1886: U.S.
+L1887: 9
+L1888: %
+L1889: 7
+L1890: %
+L1891: 7
+L1892: %
+L1893: 7
+L1894: %
+L1895: Canada
+L1896: 11
+L1897: %
+L1898: 3
+L1899: %
+L1900: 9
+L1901: %
+L1902: 4
+L1903: %
+L1904: Other International
+L1905: 11
+L1906: %
+L1907: 3
+L1908: %
+L1909: 11
+L1910: %
+L1911: 3
+L1912: %
+L1913: Total Company
+L1914: 10
+L1915: %
+L1916: 6
+L1917: %
+L1918: 8
+L1919: %
+L1920: 6
+L1921: %
+L1922: Increases in comparable sales excluding the impact of changes in foreign currency and gasoline prices:
+L1923: U.S.
+L1924: 7
+L1925: %
+L1926: 8
+L1927: %
+L1928: 6
+L1929: %
+L1930: 8
+L1931: %
+L1932: Canada
+L1933: 6
+L1934: %
+L1935: 8
+L1936: %
+L1937: 8
+L1938: %
+L1939: 8
+L1940: %
+L1941: Other International
+L1942: 6
+L1943: %
+L1944: 9
+L1945: %
+L1946: 7
+L1947: %
+L1948: 9
+L1949: %
+L1950: Total Company
+L1951: 7
+L1952: %
+L1953: 8
+L1954: %
+L1955: 7
+L1956: %
+L1957: 8
+L1958: %
+L1959: Net sales increased $7,189 or 12%, and $17,894 or 10% during the third quarter and first thirty-six weeks of 2026. The improvement was primarily attributable to an increase in comparable sales of $6,055 or 10% and $14,553 or 8% during the third quarter and thirty-six weeks of 2026.
+L1960: Comparable sales were positively impacted by increases of approximately
+L1961: 7%
+L1962: and
+L1963: 5%
+L1964: in average ticket and
+L1965: 2%
+L1966: and
+L1967: 3%
+L1968: in shopping frequency in the
+L1969: third
+L1970: quarter and first
+L1971: thirty-six weeks
+L1972: of 2026.
+L1973: The remaining increase was driven by sales at the 23 net new warehouses opened since the end of the third quarter of 2025.
+L1974: Digitally-enabled comparable sales increased 21% and 22% during the third quarter and first thirty-six weeks of 2026 and increased 21% for each period excluding the impact of changes in foreign currencies.
+L1975: Sales increased $3,721 or 7% and $12,384 or 8% in core merchandise categories during the third quarter and first thirty-six weeks of 2026, increasing in all categories. Sales increased $3,468 or 29% and $5,510 or 16% in warehouse ancillary and other businesses during the third quarter and first thirty-six weeks of 2026, led by gasoline and pharmacy.
+L1976: 21
+L1977: Table of Contents
+L1978: The volume of gasoline sold increased approximately 10% and 6%, positively impacting net sales by $662, or 107 basis points and $1,105 or 60 basis points during the third quarter and first thirty-six weeks of 2026. Higher gasoline prices positively impacted net sales by $1,367, or 221 basis points, and $936, or 50 basis points during the third quarter and first thirty-six weeks of 2026, with a 20% and 5% increase in the average price per gallon.
+L1979: Changes in foreign currencies relative to the U.S. dollar attributable to our Other International and Canadian operations positively impacted net sales by approximately $643, or 104 basis points, and approximately $1,578, or 85 basis points, during the third quarter and first thirty-six weeks of 2026.
+L1980: Membership Fees
+L1981: 12 Weeks Ended
+L1982: 36 Weeks Ended
+L1983: May 10,
+L1984: 2026
+L1985: May 11,
+L1986: 2025
+L1987: May 10,
+L1988: 2026
+L1989: May 11,
+L1990: 2025
+L1991: Membership fees
+L1992: $
+L1993: 1,373
+L1994: $
+L1995: 1,240
+L1996: $
+L1997: 4,057
+L1998: $
+L1999: 3,599
+L2000: Total paid members (000s)
+L2001: 82,900
+L2002: 79,600
+L2003: —
+L2004: —
+L2005: Total cardholders (000s)
+L2006: 148,500
+L2007: 142,800
+L2008: —
+L2009: —
+L2010: Membership fee revenue increased 11% and 13% in the third quarter and first thirty-six weeks of 2026, driven by new member sign-ups, membership fee increases and upgrades to Executive Membership. At the end of the third quarter of 2026, our renewal rates were 92.2% in the U.S. and Canada and 89.7% worldwide. Renewal rates were negatively impacted by a higher number of memberships sold online, including through digital promotions, entering the renewal rate calculation. These memberships renew at a slightly lower rate on average.
+L2011: As previously reported, we increased our annual membership fees in the U.S. and Canada, effective September 1, 2024. We account for membership fee revenue on a deferred basis, recognized ratably over the one-year membership period. The fee income increase accounted for approximately 25% and 35% of membership income growth during the third quarter and first thirty-six weeks of 2026.
+L2012: Gross Margin
+L2013: 12 Weeks Ended
+L2014: 36 Weeks Ended
+L2015: May 10,
+L2016: 2026
+L2017: May 11,
+L2018: 2025
+L2019: May 10,
+L2020: 2026
+L2021: May 11,
+L2022: 2025
+L2023: Net sales
+L2024: $
+L2025: 69,154
+L2026: $
+L2027: 61,965
+L2028: $
+L2029: 203,374
+L2030: $
+L2031: 185,480
+L2032: Less merchandise costs
+L2033: 61,519
+L2034: 54,996
+L2035: 180,748
+L2036: 164,849
+L2037: Gross margin
+L2038: $
+L2039: 7,635
+L2040: $
+L2041: 6,969
+L2042: $
+L2043: 22,626
+L2044: $
+L2045: 20,631
+L2046: Gross margin percentage
+L2047: 11.04
+L2048: %
+L2049: 11.25
+L2050: %
+L2051: 11.13
+L2052: %
+L2053: 11.12
+L2054: %
+L2055: Quarterly Results
+L2056: Gross margin as a percentage of net sales decreased by 21 basis points. Excluding the impact of gasoline price inflation on net sales, gross margin percentage was 11.26%, an increase of one basis point. The increase was positively impacted by 14 basis points in our warehouse ancillary and other businesses, primarily pharmacy and e-commerce. A smaller LIFO charge in the third quarter of 2026 compared to the third quarter of 2025 positively impacted gross margin by 14 basis points. The absence of a charge this quarter related to a one-time expense for increased employee vacation positively impacted gross margin by two basis points. Gross margin percentage was negatively impacted by 29 basis points in our core merchandise categories, primarily due to foods and sundries and fresh foods, partially offset by our co-branded credit card program and non-foods. Changes in foreign currencies relative to the U.S. dollar positively impacted gross margin by approximately $69, compared to the third quarter of 2025, attributable to our Other International and Canadian operations.
+L2057: 22
+L2058: Table of Contents
+L2059: The gross margin in core merchandise categories, when expressed as a percentage of core merchandise sales (rather than total net sales), decreased nine basis points. The decrease was primarily due to fresh foods and foods and sundries, partially offset by non-foods. This measure eliminates the impact of changes in sales penetration and gross margin from our warehouse ancillary and other businesses.
+L2060: Gross margin percentage on a segment basis, when expressed as a percentage of the segment's own sales and excluding the impact of changes in gasoline prices on net sales (segment gross margin percentage), decreased in our U.S. segment. The decrease was primarily due to a negative impact from core merchandise categories, partially offset by increases in warehouse ancillary and other businesses, a smaller LIFO charge and the absence of a charge related to a one-time expense for increased employee vacation. Our Canadian segment gross margin percentage increased, primarily due to increases in warehouse ancillary and other businesses, partially offset by decreases in core merchandise categories. Gross margin increased in our Other International segment, primarily due to increases in core merchandise categories.
+L2061: Year-to-date Results
+L2062: Gross margin as a percentage of net sales increased by one basis point. Excluding the impact of gasoline price inflation on net sales, gross margin percentage was 11.18%, an increase of six basis points. The increase was positively impacted by 13 basis points in our warehouse ancillary and other businesses, primarily pharmacy and gasoline, and three basis points from a smaller LIFO charge in the first thirty-six weeks of 2026 compared to the first thirty-six weeks of 2025. A non-recurring legal settlement also positively impacted gross margin by two basis points. Gross margin percentage was negatively impacted by 12 basis points in our core merchandise categories, primarily due to our co-branded credit card program, foods and sundries, and 2% rewards, partially offset by increases in non-foods. Changes in foreign currencies relative to the U.S. dollar positively impacted gross margin by approximately $170, compared to the first thirty-six weeks of 2025, attributable to our Other International and Canadian operations.
+L2063: The gross margin in core merchandise categories, when expressed as a percentage of core merchandise sales (rather than total net sales), increased 14 basis points. The increase was primarily due to non-foods and foods and sundries, partially offset by fresh foods.
+L2064: Segment gross margin percentage increased in all segments. Our U.S. segment performed similarly to the consolidated results above. Our Canadian segment gross margin percentage increased, primarily due to increases in warehouse ancillary and other businesses, partially offset by decreases in core merchandise categories. Gross margin increased in our Other International segment, primarily due to increases in core merchandise categories and warehouse ancillary and other businesses.
+L2065: Selling, General and Administrative Expenses
+L2066: 12 Weeks Ended
+L2067: 36 Weeks Ended
+L2068: May 10,
+L2069: 2026
+L2070: May 11,
+L2071: 2025
+L2072: May 10,
+L2073: 2026
+L2074: May 11,
+L2075: 2025
+L2076: SG&A expenses
+L2077: $
+L2078: 6,193
+L2079: $
+L2080: 5,679
+L2081: $
+L2082: 18,799
+L2083: $
+L2084: 17,188
+L2085: SG&A expenses as a percentage of net sales
+L2086: 8.96
+L2087: %
+L2088: 9.16
+L2089: %
+L2090: 9.24
+L2091: %
+L2092: 9.27
+L2093: %
+L2094: Quarterly Results
+L2095: SG&A expenses as a percentage of net sales decreased by 20 basis points. SG&A expenses as a percentage of net sales excluding the impact of gasoline price inflation was 9.14%, a decrease of two basis points. Compared to last year, results were favorably impacted by five basis points attributable to the absence of a charge related to a one-time expense for increased employee vacation and one basis point from central operating costs. SG&A was negatively impacted by three basis points attributable to warehouse operations and other businesses. Stock compensation was higher by one basis point. Changes in foreign currencies relative to the U.S. dollar increased SG&A expenses by approximately $48
+L2096: 23
+L2097: Table of Contents
+L2098: compared to the third quarter of 2025, attributable to our Other International and Canadian operations. SG&A expenses as a percentage of net sales was lower in our U.S. segment and higher in our Canadian and Other International segments.
+L2099: Year-to-date Results
+L2100: SG&A expenses as a percentage of net sales decreased by three basis points. SG&A expenses as a percentage of net sales excluding the impact of gasoline price inflation was 9.29%, an increase of two basis points. Compared to last year, results were negatively impacted by two basis points attributable to self-insured general liability claims expense. A charge related to a tax assessment for prior years and warehouse operations and other businesses also negatively impacted SG&A by one basis point each. The absence of a charge related to a one-time expense for increased employee vacation favorably impacted SG&A by two basis points. Changes in foreign currencies relative to the U.S. dollar increased SG&A expenses by approximately $113 compared to the first thirty-six weeks of 2025, attributable to our Other International and Canadian operations. SG&A expenses as a percentage of net sales were higher in our U.S. and Canadian segments and lower in our Other International segment.
+L2101: Interest Expense
+L2102: 12 Weeks Ended
+L2103: 36 Weeks Ended
+L2104: May 10,
+L2105: 2026
+L2106: May 11,
+L2107: 2025
+L2108: May 10,
+L2109: 2026
+L2110: May 11,
+L2111: 2025
+L2112: Interest expense
+L2113: $
+L2114: 32
+L2115: $
+L2116: 35
+L2117: $
+L2118: 100
+L2119: $
+L2120: 108
+L2121: Interest expense is primarily related to Senior Notes and financing leases.
+L2122: Interest Income and Other, Net
+L2123: 12 Weeks Ended
+L2124: 36 Weeks Ended
+L2125: May 10,
+L2126: 2026
+L2127: May 11,
+L2128: 2025
+L2129: May 10,
+L2130: 2026
+L2131: May 11,
+L2132: 2025
+L2133: Interest income
+L2134: $
+L2135: 130
+L2136: $
+L2137: 95
+L2138: $
+L2139: 392
+L2140: $
+L2141: 300
+L2142: Foreign-currency transaction gains (losses), net
+L2143: 17
+L2144: (17)
+L2145: 38
+L2146: 49
+L2147: Other, net
+L2148: 8
+L2149: 7
+L2150: 28
+L2151: 25
+L2152: Interest income and other, net
+L2153: $
+L2154: 155
+L2155: $
+L2156: 85
+L2157: $
+L2158: 458
+L2159: $
+L2160: 374
+L2161: The increase in interest income in the third quarter and first thirty-six weeks of 2026 was due to higher cash balances, partially offset by lower interest rates. Foreign-currency transaction gains (losses), net, include revaluation or settlement of monetary assets and liabilities by our Canadian and Other International operations and mark-to-market adjustments for forward foreign-exchange contracts. See Derivatives and Foreign Currency sections in Item 8, Note 1 of our Annual Report on Form 10-K, for the fiscal year ended August 31, 2025.
+L2162: Provision for Income Taxes
+L2163: 12 Weeks Ended
+L2164: 36 Weeks Ended
+L2165: May 10,
+L2166: 2026
+L2167: May 11,
+L2168: 2025
+L2169: May 10,
+L2170: 2026
+L2171: May 11,
+L2172: 2025
+L2173: Provision for income taxes
+L2174: $
+L2175: 746
+L2176: $
+L2177: 677
+L2178: $
+L2179: 2,014
+L2180: $
+L2181: 1,819
+L2182: Effective tax rate
+L2183: 25.4
+L2184: %
+L2185: 26.2
+L2186: %
+L2187: 24.4
+L2188: %
+L2189: 24.9
+L2190: %
+L2191: The effective tax rate for the first thirty-six weeks of 2026 and 2025 was favorably impacted by discrete tax benefits of $72 and $100 related to stock compensation.
+L2192: 24
+L2193: Table of Contents
+L2194: LIQUIDITY AND CAPITAL RESOURCES
+L2195: The following table summarizes our significant sources and uses of cash and cash equivalents:
+L2196: 36 Weeks Ended
+L2197: May 10,
+L2198: 2026
+L2199: May 11,
+L2200: 2025
+L2201: Net cash provided by operating activities
+L2202: $
+L2203: 11,133
+L2204: $
+L2205: 9,468
+L2206: Net cash used in investing activities
+L2207: (4,160)
+L2208: (3,343)
+L2209: Net cash used in financing activities
+L2210: (2,175)
+L2211: (2,182)
+L2212: Our primary sources of liquidity are cash flows from operations, cash and cash equivalents, and short-term investments. Cash and cash equivalents and short-term investments were $19,996 and $15,284 at May 10, 2026, and August 31, 2025. Of these balances, unsettled credit and debit card receivables represented approximately $3,078 and $2,670 at May 10, 2026, and August 31, 2025. These receivables generally settle within four days.
+L2213: Material contractual obligations arising in the normal course of business primarily consist of purchase obligations, long-term debt and related interest payments, leases, and construction and land purchase obligations. Purchase obligations consist of contracts primarily related to merchandise, equipment, and third-party services, the majority of which are due in the next 12 months. Construction and land-purchase obligations consist of contracts primarily related to the development and opening of new and relocated warehouses, the majority of which (other than leases) are due in the next 12 months.
+L2214: We believe that our cash and investment positions and operating cash flow, with capacity under existing and available credit agreements, will be sufficient to meet our liquidity and capital requirements for the foreseeable future and that our U.S. current and projected asset position is sufficient to meet our U.S. liquidity requirements.
+L2215: Cash Flows from Operating Activities
+L2216: Our cash flow provided by operations is primarily fr
+L2217: om net sales and membership fees. Cash flow used in operations generally consists of payments to
+L2218: suppliers, warehouse operating costs, including wages and employee benefits, utilities, credit and debit card processing fees, and operating leases. Cash used in operations also includes payments for income taxes. Changes in our net investment in merchandise inventories (the difference between merchandise inventories and accounts payable) is impacted by several factors, including inventory levels and turnover, payment terms with suppliers, and early payments to obtain discounts. Net cash provided by operating activities totaled $11,133 in the first thirty-six weeks of 2026, compared to $9,468 in the first thirty-six weeks of 2025. The increase was primarily due to higher cash flow provided from operating income, as well as reduced net investment in merchandise inventories. The latter was a result of faster inventory turns and improved payment terms with suppliers.
+L2219: Cash Flows from Investing Activities
+L2220: Net cash used in investing activities totaled $4,160 in the first thirty-six weeks of 2026, compared to $3,343 in the first thirty-six weeks of 2025, and is primarily related
+L2221: to capital expenditures.
+L2222: Net cash from investing activities also includes purchases and maturities of short-term investments.
+L2223: Capital Expenditure Plans
+L2224: Our primary requirements for capital are acquiring land, buildings, and equipment for new and remodeled warehouses, information systems, and manufacturing and distribution facilities. In the first thirty-six weeks of 2026, we spent $4,228 on capital expenditures, and it is our current intention to spend approximately $6,500 during fiscal 2026, as we continue to invest in new warehouse openings, remodel existing locations, expand our depot network, and further develop our digitally-enabled businesses. These expenditures are expected to be financed with cash from operations, cash and cash equivalents, and
+L2225: 25
+L2226: Table of Contents
+L2227: short-term investments. We opened
+L2228: 16
+L2229: new warehouses, includ
+L2230: ing
+L2231: two
+L2232: relocations, in
+L2233: the first thirty-six weeks of 2026, and plan to open 13 additional new warehouses, including one relocation,
+L2234: in
+L2235: the remainder of fiscal 2026. There can be no assurance that current expectations will be realized, and plans are subject to change upon further review of our capital expenditure needs and the economic environment.
+L2236: Cash Flows from Financing Activities
+L2237: Net cash used in financing activities totaled $2,175 in the first thirty-six weeks of 2026, compared to $2,182 in the first thirty-six weeks of 2025. Cash flow used in financing activities during the first thirty-six weeks of 2026 was primarily related to the
+L2238: payment of dividends, repurchases of common stock, repayments of short-term borrowings, withholding taxes on stock-based awards, and repayments of long-term debt. Cash flow provided by financing activities included proceeds from short-term borrowings.
+L2239: Long-term Debt
+L2240: Repayments of long-term debt in the first thirty-six weeks of 2026 totaled $69, as compared to no repayments in 2025.
+L2241: Dividends
+L2242: A quarterly cash dividend of $1.47 per share was declared on April 15, 2026, and paid on May 15, 2026.
+L2243: Share Repurchase Program
+L2244: On January 19, 2023, the Board of Directors authorized a share repurchase program in the amount of $4,000, which expires in January 2027. During the first thirty-six weeks of 2026 and 2025, we repurchased 638,000 and 658,000 shares of common stock, at an average price per share of $945.46 and $946.64, totaling approximately $603 and $623. These amounts may differ from the accompanying condensed consolidated statements of cash flows due to changes in unsettled repurchases at the end of a quarter. Purchases are made from time to time, as conditions warrant, potentially including the open market, block purchases and pursuant to plans under SEC Rule 10b5-1. Repurchased shares are retired, in accordance with the Washington Business Corporation Act. The remaining amount available to be purchased under our approved plan was $1,359 at the end of the third quarter.
+L2245: Bank Credit Facilities and Commercial Paper Programs
+L2246: We maintain bank credit facilities for working capital and general corporate purposes. At May 10, 2026, we had borrowing capacity under these facilities of $1,531. Our Canadian and Other International operations maintain $1,028 of this capacity under bank credit facilities, of which $338 is guaranteed by the Company. Short-term borrowings outstanding under the bank credit facilities, which are included in other current liabilities on the condensed consolidated balance sheets, were $96 at the end of the third quarter of 2026 and immaterial at the end of 2025.
+L2247: We have letter of credit facilities, for commercial and standby letters of credit, totaling $242. The outstanding commitments under these facilities at the end of the third quarter of 2026 totaled $205, most of which were standby letters of credit that do not expire or have expiration dates within one year. The bank credit facilities have various expiration dates, most within one year, and we generally intend to renew these facilities. The amount of borrowings available at any time under our bank credit facilities is reduced by the amount of standby and commercial letters of credit outstanding.
+L2248: Critical Accounting Estimates
+L2249: The preparation of our consolidated financial statements in accordance with U.S. GAAP requires that we make estimates and judgments. We base these on historical experience and on assumptions that we believe to be reasonable. Our critical accounting policies are discussed in Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” section of our Annual Report
+L2250: 26
+L2251: Table of Contents
+L2252: on Form 10-K, for the fiscal year ended August 31, 2025. There have been no material changes to the critical accounting estimates previously disclosed in that Report.
+L2253: Recent Accounting Pronouncements
+L2254: See discussion of Recent Accounting Pronouncements in
+L2255: Note 1
+L2256: to the condensed consolidated financial statements included in Part I, Item 1 of this Report.
+L2257: Item 3—Quantitative and Qualitative Disclosures about Market Risk
+L2258: Our direct exposure to financial market risk results from fluctuations in foreign-currency exchange rates and interest rates. There have been no material changes to our market risks as disclosed in our Annual Report on Form 10-K, for the fiscal year ended August 31, 2025.
+L2259: Item 4—Controls and Procedures
+L2260: Evaluation of Disclosure Controls and Procedures
+L2261: Our disclosure controls and procedures (as defined in Rules 13a-15(e) or 15d-15(e) under the Securities Exchange Act of 1934, as amended) are designed to ensure that information required to be disclosed in the reports that we file or submit under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in the rules and forms of the Securities and Exchange Commission and to ensure that information required to be disclosed is accumulated and communicated to management, including our principal executive and financial officers, to allow timely decisions regarding disclosure. The Chief Executive Officer and the Chief Financial Officer, with assistance from other members of management, have reviewed the effectiveness of our disclosure controls and procedures as of May 10, 2026, and, based on their evaluation, have concluded the disclosure controls and procedures were effective as of such date.
+L2262: Changes in Internal Control over Financial Reporting
+L2263: There have been no changes in our internal control over financial reporting (as defined in Rules 13a-15(f) or 15d-15(f) of the Exchange Act) that occurred during the third quarter of fiscal 2026 that have materially affected, or are reasonably likely to materially affect, the Company’s internal control over financial reporting.
+L2264: PART II—OTHER INFORMATION
+L2265: Item 1—Legal Proceedings
+L2266: See discussion of Legal Proceedings in
+L2267: Note 8
+L2268: to the condensed consolidated financial statements included in Part I, Item 1 of this Report.
+L2269: Item 1A—Risk Factors
+L2270: In addition to the other information set forth in the Quarterly Report on Form 10-Q, you should carefully consider the factors discussed in Part I, Item 1A, “Risk Factors” in our Annual Report on Form 10-K, for the fiscal year ended August 31, 2025. There have been no material changes in our risk factors from those disclosed in our Annual Report on Form 10-K.
+L2271: 27
+L2272: Table of Contents
+L2273: Item 2—Unregistered Sales of Equity Securities and Use of Proceeds
+L2274: The following table sets forth information on our common stock repurchase activity for the third quarter of 2026 (amounts in millions, except share and per share data):
+L2275: Period
+L2276: Total Number of Shares Purchased
+L2277: Average Price Paid Per Share
+L2278: Total Number of Shares Purchased as Part of Publicly Announced Programs
+L2279: (1)
+L2280: Maximum Dollar Value of Shares that May Yet be Purchased Under the Programs
+L2281: (1)
+L2282: February 16, 2026 — March 15, 2026
+L2283: 61,000
+L2284: $
+L2285: 998.15
+L2286: 61,000
+L2287: $
+L2288: 1,481
+L2289: March 16, 2026 — April 12, 2026
+L2290: 62,000
+L2291: 994.33
+L2292: 62,000
+L2293: 1,420
+L2294: April 13, 2026 — May 10, 2026
+L2295: 61,000
+L2296: 999.96
+L2297: 61,000
+L2298: 1,359
+L2299: Total third quarter
+L2300: 184,000
+L2301: $
+L2302: 997.47
+L2303: 184,000
+L2304: _______________
+L2305: (1) Our share repurchase program is conducted under a $4,000 authorization approved by our Board of Directors in January 2023, which expires in January 2027.
+L2306: Item 3—Defaults Upon Senior Securities
+L2307: None.
+L2308: Item 4—Mine Safety Disclosures
+L2309: Not applicable.
+L2310: Item 5—Other Information
+L2311: None.
+L2312: 28
+L2313: Table of Contents
+L2314: Item 6—Exhibits
+L2315: The following exhibits are filed as part of this Quarterly Report on Form 10-Q or are incorporated herein by reference.
+L2316: Incorporated by Reference
+L2317: Exhibit
+L2318: Number
+L2319: Exhibit Description
+L2320: Filed
+L2321: Herewith
+L2322: Form
+L2323: Period
+L2324: Ending
+L2325: Filing Date
+L2326: 3.1
+L2327: Articles of Incorporation as amended of Costco Wholesale Corporation
+L2328: 10-K
+L2329: 8/28/2022
+L2330: 10/5/2022
+L2331: 3.2
+L2332: Bylaws as amended of Costco Wholesale Corporation
+L2333: 8-K
+L2334: 9/20/2024
+L2335: 31.1
+L2336: Rule 13(a) – 14(a) Certifications
+L2337: x
+L2338: 32.1*
+L2339: Section 1350 Certifications
+L2340: 101.INS
+L2341: Inline XBRL Instance Document
+L2342: x
+L2343: 101.SCH
+L2344: Inline XBRL Taxonomy Extension Schema Document
+L2345: x
+L2346: 101.CAL
+L2347: Inline XBRL Taxonomy Extension Calculation Linkbase Document
+L2348: x
+L2349: 101.DEF
+L2350: Inline XBRL Taxonomy Extension Definition Linkbase Document
+L2351: x
+L2352: 101.LAB
+L2353: Inline XBRL Taxonomy Extension Label Linkbase Document
+L2354: x
+L2355: 101.PRE
+L2356: Inline XBRL Taxonomy Extension Presentation Linkbase Document
+L2357: x
+L2358: 104
+L2359: Cover Page Interactive Data File (formatted as inline XBRL and contained in Exhibit 101)
+L2360: x
+L2361: _______________
+L2362: * Furnished herewith.
+L2363: 29
+L2364: Table of Contents
+L2365: SIGNATURES
+L2366: Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this Report to be signed on its behalf by the undersigned, thereunto duly authorized.
+L2367: C
+L2368: OSTCO
+L2369: W
+L2370: HOLESALE
+L2371: C
+L2372: ORPORATION
+L2373: (Registrant)
+L2374: June 3, 2026
+L2375: By
+L2376: /s/ R
+L2377: ON
+L2378: M. V
+L2379: ACHRIS
+L2380: Date
+L2381: Ron M. Vachris
+L2382: President and Chief Executive Officer
+L2383: June 3, 2026
+L2384: By
+L2385: /s/ G
+L2386: ARY
+L2387: M
+L2388: ILLERCHIP
+L2389: Date
+L2390: Gary Millerchip
+L2391: Executive Vice President and Chief Financial Officer
+L2392: 30

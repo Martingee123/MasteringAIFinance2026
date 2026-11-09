@@ -1,0 +1,198 @@
+{
+  "scope": "Core table and seeded growth sentence only. Numerical checks; model semantics and additional narrative/peer claims NOT audited.",
+  "marks": [
+    {
+      "core_claim": 1,
+      "label": "Annual total revenue",
+      "reported": "$303,154 million",
+      "expected": [
+        303154.0
+      ],
+      "code_mark": "code correct",
+      "semantic_check": "NOT RUN — no model provider",
+      "arithmetic": "",
+      "evidence": [
+        "facts.json RevenueFromContractWithCustomerExcludingAssessedTax 2026-08-30: 303154000000 USD",
+        "Net sales\n$\n297,247\n$\n269,912\n$\n249,625\nMembership fees\n5,907\n5,323\n4,828\nTotal revenue\n303,154\n275,235\n254,453"
+      ],
+      "reason": "Matches saved facts / recomputed arithmetic.",
+      "original_row": "| 1 | Annual total revenue | $303,154 million | 297,247 net sales + 5,907 membership fees = 303,154 | annual.txt L1153–L1167 |"
+    },
+    {
+      "core_claim": 2,
+      "label": "Annual revenue growth",
+      "reported": "10.14%",
+      "expected": [
+        10.143695387577889
+      ],
+      "code_mark": "code correct",
+      "semantic_check": "NOT RUN — no model provider",
+      "arithmetic": "(303154000000 / 275235000000) - 1 * 100 for percent",
+      "evidence": [
+        "facts.json RevenueFromContractWithCustomerExcludingAssessedTax 2026-08-30: 303154000000 USD",
+        "facts.json RevenueFromContractWithCustomerExcludingAssessedTax 2025-08-31: 275235000000 USD",
+        "Total revenue\n303,154\n275,235\n254,453"
+      ],
+      "reason": "Matches saved facts / recomputed arithmetic.",
+      "original_row": "| 2 | Annual revenue growth | 10.14% | (303,154 / 275,235 − 1) × 100 = 10.1436953876% | annual.txt L1164–L1167 |"
+    },
+    {
+      "core_claim": 3,
+      "label": "Operating income and margin",
+      "reported": "$11,685 million; 3.85%",
+      "expected": [
+        11685.0,
+        3.8544766026507977
+      ],
+      "code_mark": "code correct",
+      "semantic_check": "NOT RUN — no model provider",
+      "arithmetic": "11685000000 / 303154000000 * 100 for percent",
+      "evidence": [
+        "facts.json OperatingIncomeLoss 2026-08-30: 11685000000 USD",
+        "facts.json RevenueFromContractWithCustomerExcludingAssessedTax 2026-08-30: 303154000000 USD",
+        "Total revenue\n303,154\n275,235\n254,453\nOperating income\n11,685\n10,383\n9,285"
+      ],
+      "reason": "Matches saved facts / recomputed arithmetic.",
+      "original_row": "| 3 | Operating income and margin | $11,685 million; 3.85% | 11,685 / 303,154 × 100 = 3.8544766027% | annual.txt L1177–L1180 and L1164–L1167 |"
+    },
+    {
+      "core_claim": 4,
+      "label": "Net income attributable to Costco",
+      "reported": "$9,226 million",
+      "expected": [
+        9226.0
+      ],
+      "code_mark": "code correct",
+      "semantic_check": "NOT RUN — no model provider",
+      "arithmetic": "",
+      "evidence": [
+        "facts.json NetIncomeLoss 2026-08-30: 9226000000 USD",
+        "NET INCOME\n$\n9,226\n$\n8,099\n$\n7,367"
+      ],
+      "reason": "Matches saved facts / recomputed arithmetic.",
+      "original_row": "| 4 | Net income attributable to Costco | $9,226 million | Net income: 9,226 | annual.txt L1204–L1210; NetIncomeLoss, FY 2026 |"
+    },
+    {
+      "core_claim": 5,
+      "label": "Annual GAAP diluted EPS",
+      "reported": "$21.76",
+      "expected": [
+        20.76
+      ],
+      "code_mark": "wrong",
+      "semantic_check": "NOT RUN — no model provider",
+      "arithmetic": "",
+      "evidence": [
+        "facts.json EarningsPerShareDiluted 2026-08-30: 20.76 USD/shares",
+        "Diluted\n$\n20.76\n$\n18.21\n$\n16.56"
+      ],
+      "reason": "Reported value differs from saved facts / recomputed arithmetic.",
+      "original_row": "| 5 | Annual GAAP diluted EPS | $21.76 | Diluted net income per common share: 20.76 | annual.txt L1219–L1225 | [Seeded false source quotation: \"Annual diluted EPS 21.76\".]"
+    },
+    {
+      "core_claim": 6,
+      "label": "Return on average equity",
+      "reported": "28.40%",
+      "expected": [
+        28.402111841396398
+      ],
+      "code_mark": "code correct",
+      "semantic_check": "NOT RUN — no model provider",
+      "arithmetic": "9226000000 / ((35803000000 + 29164000000) / 2) * 100 for percent",
+      "evidence": [
+        "facts.json NetIncomeLoss 2026-08-30: 9226000000 USD",
+        "facts.json NetIncomeLoss 2025-08-31: 8099000000 USD",
+        "facts.json StockholdersEquity 2026-08-30: 35803000000 USD",
+        "facts.json StockholdersEquity 2025-08-31: 29164000000 USD",
+        "NET INCOME\n$\n9,226\n$\n8,099\n$\n7,367\nTOTAL EQUITY\n35,803\n29,164"
+      ],
+      "reason": "Matches saved facts / recomputed arithmetic.",
+      "original_row": "| 6 | Return on average equity | 28.40% | 9,226 / ((35,803 + 29,164) / 2) × 100 = 28.4021118414% | annual.txt L1204–L1210 and L1386–L1388 |"
+    },
+    {
+      "core_claim": 7,
+      "label": "Long-term debt including current portion / equity",
+      "reported": "0.1721×",
+      "expected": [
+        0.17210848252939698
+      ],
+      "code_mark": "code correct",
+      "semantic_check": "NOT RUN — no model provider",
+      "arithmetic": "(3914000000 + 2248000000) / 35803000000",
+      "evidence": [
+        "facts.json LongTermDebtNoncurrent 2026-08-30: 3914000000 USD",
+        "facts.json LongTermDebtCurrent 2026-08-30: 2248000000 USD",
+        "facts.json StockholdersEquity 2026-08-30: 35803000000 USD",
+        "Current portion of long-term debt\n2,248\n75\nLong-term debt, excluding current portion\n3,914\n5,713\nTOTAL EQUITY\n35,803\n29,164"
+      ],
+      "reason": "Matches saved facts / recomputed arithmetic.",
+      "original_row": "| 7 | Long-term debt including current portion / equity | 0.1721× | (3,914 + 2,248) / 35,803 = 0.1721084825× | annual.txt L1331–L1333, L1341–L1343, L1386–L1388 |"
+    },
+    {
+      "core_claim": 8,
+      "label": "Free cash flow",
+      "reported": "$9,382 million",
+      "expected": [
+        9382.0
+      ],
+      "code_mark": "code correct",
+      "semantic_check": "NOT RUN — no model provider",
+      "arithmetic": "15817000000 - 6435000000",
+      "evidence": [
+        "facts.json NetCashProvidedByUsedInOperatingActivities 2026-08-30: 15817000000 USD",
+        "facts.json PaymentsToAcquirePropertyPlantAndEquipment 2026-08-30: 6435000000 USD",
+        "Net cash provided by operating activities\n15,817\n13,335\n11,339\nCASH FLOWS FROM INVESTING ACTIVITIES\nAdditions to property and equipment\n(\n6,435\n)\n(\n5,498\n)"
+      ],
+      "reason": "Matches saved facts / recomputed arithmetic.",
+      "original_row": "| 8 | Free cash flow | $9,382 million | 15,817 operating cash − 6,435 capital expenditures = 9,382 | annual.txt L1703–L1714 |"
+    },
+    {
+      "core_claim": 9,
+      "label": "Latest quarter total revenue",
+      "reported": "$95,723 million",
+      "expected": [
+        95723.0
+      ],
+      "code_mark": "code correct",
+      "semantic_check": "NOT RUN — no model provider",
+      "arithmetic": "95723.0",
+      "evidence": [
+        "COSTCO WHOLESALE CORPORATION\nCONSOLIDATED STATEMENTS OF INCOME\n(dollars in millions, except per share data) (unaudited)\n16 Weeks Ended\n52 Weeks Ended\nAugust 30,\n2026\nAugust 31,\n2025\nAugust 30,\n2026\nAugust 31,\n2025\nREVENUE\nNet sales\n$\n93,873\n$\n84,432\n$\n297,247\n$\n269,912\nMembership fees\n1,850\n1,724\n5,907\n5,323\nTotal revenue\n95,723\n86,156"
+      ],
+      "reason": "Matches saved facts / recomputed arithmetic.",
+      "original_row": "| 9 | Latest quarter total revenue | $95,723 million | 93,873 net sales + 1,850 membership fees = 95,723 | earnings.txt L55–L85; 16 weeks ended August 30, 2026 |"
+    },
+    {
+      "core_claim": 10,
+      "label": "Quarter total revenue growth",
+      "reported": "11.10%",
+      "expected": [
+        11.104275964529453
+      ],
+      "code_mark": "code correct",
+      "semantic_check": "NOT RUN — no model provider",
+      "arithmetic": "(95723.0 / 86156.0 - 1) * 100",
+      "evidence": [
+        "COSTCO WHOLESALE CORPORATION\nCONSOLIDATED STATEMENTS OF INCOME\n(dollars in millions, except per share data) (unaudited)\n16 Weeks Ended\n52 Weeks Ended\nAugust 30,\n2026\nAugust 31,\n2025\nAugust 30,\n2026\nAugust 31,\n2025\nREVENUE\nNet sales\n$\n93,873\n$\n84,432\n$\n297,247\n$\n269,912\nMembership fees\n1,850\n1,724\n5,907\n5,323\nTotal revenue\n95,723\n86,156"
+      ],
+      "reason": "Matches saved facts / recomputed arithmetic.",
+      "original_row": "| 10 | Quarter total revenue growth | 11.10% | (95,723 / 86,156 − 1) × 100 = 11.1042759645% | earnings.txt L55–L85; comparable 16-week columns |"
+    },
+    {
+      "core_claim": 11,
+      "label": "Quarter GAAP diluted EPS",
+      "reported": "$6.75",
+      "expected": [
+        6.75
+      ],
+      "code_mark": "code correct",
+      "semantic_check": "NOT RUN — no model provider",
+      "arithmetic": "",
+      "evidence": [
+        "Net income for the fourth quarter was $2.998 billion, $6.75 per diluted share, compared to $2.610 billion, $5.87 per diluted share, last year. This year's fourth quarter was positively impacted by a non-recurring benefit of $0.15 per diluted share from IEEPA tariff refunds received in the quarter, less partial reinvestment of those refunds in increased member values. Net income for the fiscal year was $9.226 billion, $20.76 per diluted share, compared to $8.099 billion, $18.21 per diluted share, last year.\nDiluted\n$\n6.75\n$\n5.87\n$\n20.76\n$\n18.21"
+      ],
+      "reason": "Matches saved facts / recomputed arithmetic.",
+      "original_row": "| 11 | Quarter GAAP diluted EPS | $6.75 | Diluted net income per common share: 6.75 | earnings.txt L144–L152; also L44 |"
+    }
+  ]
+}

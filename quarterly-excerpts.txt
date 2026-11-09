@@ -1,0 +1,138 @@
+L42: 20.7%
+L43: *Excluding the impacts from changes in gasoline prices and foreign exchange.
+L44: Net income for the fourth quarter was $2.998 billion, $6.75 per diluted share, compared to $2.610 billion, $5.87 per diluted share, last year. This year's fourth quarter was positively impacted by a non-recurring benefit of $0.15 per diluted share from IEEPA tariff refunds received in the quarter, less partial reinvestment of those refunds in increased member values. Net income for the fiscal year was $9.226 billion, $20.76 per diluted share, compared to $8.099 billion, $18.21 per diluted share, last year.
+L45: Costco currently operates 939 warehouses, including 647 in the United States and Puerto Rico, 115 in Canada, 43 in Mexico, 37 in Japan, 29 in the United Kingdom, 20 in Korea, 15 in Australia, 14 in Taiwan, seven in China, five in Spain, three in France, two in Sweden, and one each in Iceland, and New Zealand. Costco also operates e-commerce sites in the U.S., Canada, the U.K., Mexico, Korea, Taiwan, Japan, Australia, and China.
+L46: A conference call to discuss these results is scheduled for 2:00 p.m. (PT) today, September 24, 2026, and will be available via a webcast on investor.costco.com (click “Events & Presentations”).
+L47: Press Release
+L48: Certain statements contained in this document constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. For these purposes, forward-looking statements are statements that address activities, events, conditions or developments that the Company expects or anticipates may occur in the future. In some cases forward-looking statements can be identified because they contain words such as “anticipate,” “believe,” “continue,” “could,” “estimate,” “expect,” “intend,” “likely,” “may,” “might,” “plan,” “potential,” “predict,” “project,” “seek,” “should,” “target,” “will,” “would,” or similar expressions and the negatives of those terms. Such forward-looking statements involve risks and uncertainties that may cause actual events, results or performance to differ materially from those indicated by such statements. These risks and uncertainties include, but are not limited to, domestic and international economic conditions, including exchange rates, inflation or deflation, the effects of competition and regulation, uncertainties in the financial markets, consumer and small business spending patterns and debt levels, breaches of security or privacy of member or business information, conditions affecting the acquisition, development, ownership or use of real estate, capital spending, actions of vendors, rising costs associated with employees (generally including health-care costs and wages), workforce interruptions, energy and certain commodities, geopolitical conditions (including tariffs and global conflicts), the ability to maintain effective internal control over financial reporting, regulatory and other impacts related to environmental and social matters, public-health related factors, and other risks identified from time to time in the Company’s public statements and reports filed with the Securities and Exchange Commission. Forward-looking statements speak only as of the date they are made, and the Company does not undertake to update these statements, except as required by law. Comparable sales and comparable sales excluding impacts from changes in gasoline prices and foreign exchange are intended as supplemental information and are not a substitute for net sales presented in accordance with U.S. GAAP.
+L49: CONTACTS:    Costco Wholesale Corporation
+L50: Josh Dahmen, 425/313-8254
+L51: Andrew Yoon, 425/313-6305
+L52: Bryan Starnes, 425/427-7403
+L53: COST-Earn
+L54: Press Release
+L55: COSTCO WHOLESALE CORPORATION
+L66: August 31,
+L67: 2025
+L68: REVENUE
+L69: Net sales
+L70: $
+L71: 93,873
+L72: $
+L73: 84,432
+L74: $
+L75: 297,247
+L76: $
+L77: 269,912
+L78: Membership fees
+L79: 1,850
+L81: 5,907
+L82: 5,323
+L83: Total revenue
+L84: 95,723
+L85: 86,156
+L86: 303,154
+L87: 275,235
+L88: OPERATING EXPENSES
+L89: Merchandise costs
+L90: 83,531
+L91: 75,037
+L92: 264,279
+L93: 239,886
+L94: Selling, general and administrative
+L123: 3,025
+L124: 2,719
+L125: NET INCOME
+L126: $
+L127: 2,998
+L128: $
+L129: 2,610
+L130: $
+L131: 9,226
+L132: $
+L133: 8,099
+L134: NET INCOME PER COMMON SHARE:
+L135: Basic
+L136: $
+L137: 6.75
+L138: $
+L139: 5.88
+L140: $
+L141: 20.78
+L142: $
+L143: 18.24
+L144: Diluted
+L145: $
+L146: 6.75
+L147: $
+L148: 5.87
+L149: $
+L150: 20.76
+L151: $
+L152: 18.21
+L153: Shares used in calculation (000's):
+L154: Basic
+L155: 443,975
+L157: 443,953
+L158: 443,985
+L159: Diluted
+L160: 444,364
+L161: 444,706
+L162: 444,427
+L163: 444,803
+L164: Press Release
+L165: COSTCO WHOLESALE CORPORATION
+L166: CONSOLIDATED BALANCE SHEETS
+L167: (amounts in millions, except par value and share data) (unaudited)
+L168: Subject to Reclassification
+L169: August 30,
+L170: 2026
+L173: ASSETS
+L174: CURRENT ASSETS
+L175: Cash and cash equivalents
+L176: $
+L177: 20,207
+L178: $
+L179: 14,161
+L180: Short-term investments
+L181: 1,094
+L182: 1,123
+L183: Receivables, net
+L184: 3,959
+L185: 3,203
+L186: Merchandise inventories
+L282: 2025
+L283: CASH FLOWS FROM OPERATING ACTIVITIES
+L284: Net income
+L285: $
+L286: 9,226
+L287: $
+L288: 8,099
+L289: Adjustments to reconcile net income to net cash provided by operating activities:
+L290: Depreciation and amortization
+L291: 2,674
+L292: 2,426
+L293: Non-cash lease expense
+L294: 318
+L295: 303
+L296: Stock-based compensation
+L297: 924
+L298: 860
+L299: Other non-cash operating activities, net
+L300: 355
+L350: (3,355)
+L351: (3,775)
+L352: EFFECT OF EXCHANGE RATE CHANGES ON CASH AND CASH EQUIVALENTS
+L353: (38)
+L354: 6
+L355: Net change in cash and cash equivalents
+L356: 6,046
+L357: 4,255
+L358: CASH AND CASH EQUIVALENTS BEGINNING OF YEAR
+L359: 14,161
+L360: 9,906
+L361: CASH AND CASH EQUIVALENTS END OF YEAR
+L362: $
+L363: 20,207
+L364: $
+L365: 14,161
